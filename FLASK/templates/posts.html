@@ -13,9 +13,6 @@
 <!-- Color Scale -->
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
-<!-- Create a div where the circle will take place -->
-<div id="dataviz_brushZoom"></div>
-
 <script>
 
 // set the dimensions and margins of the graph
@@ -32,10 +29,11 @@ var svg = d3.select("#my_dataviz")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-//Read the data
-d3.csv("https://raw.githubusercontent.com/open-numbers/ddf--gapminder--systema_globalis/master/countries-etc-datapoints/ddf--datapoints--poverty_percent_people_below_550_a_day--by--geo--time.csv", function(data) {
-
+//Read the data 
+d3.json('/api', function(error,data) {
     // List of groups (here I have one group per column)
+    console.log(error)
+    console.log(data)
     var allGroup = d3.map(data, function(d){return(d.geo)}).keys()
 
     // add the options to the button
@@ -62,7 +60,7 @@ d3.csv("https://raw.githubusercontent.com/open-numbers/ddf--gapminder--systema_g
 
     // Add Y axis
     var y = d3.scaleLinear()
-      .domain([0, d3.max(data, function(d) { return +d.poverty_percent_people_below_550_a_day; })])
+      .domain([0, d3.max(data, function(d) { return +d.poverty_percent; })])
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
@@ -74,12 +72,17 @@ d3.csv("https://raw.githubusercontent.com/open-numbers/ddf--gapminder--systema_g
         .datum(data.filter(function(d){return d.geo==allGroup[0]}))
         .attr("d", d3.line()
           .x(function(d) { return x(d.time) })
-          .y(function(d) { return y(+d.poverty_percent_people_below_550_a_day) })
+          .y(function(d) { return y(+d.poverty_percent) })
         )
         .attr("stroke", function(d){ return myColor("valueA") })
+        .attr("clip-path", "url(#clip)")
         .style("stroke-width", 4)
-        .style("fill", "none")
+        .style("fill", "none");
 
+
+
+
+    
     // A function that update the chart
     function update(selectedGroup) {
 
@@ -93,7 +96,7 @@ d3.csv("https://raw.githubusercontent.com/open-numbers/ddf--gapminder--systema_g
           .duration(1000)
           .attr("d", d3.line()
             .x(function(d) { return x(d.time) })
-            .y(function(d) { return y(+d.poverty_percent_people_below_550_a_day) })
+            .y(function(d) { return y(+d.poverty_percent) })
           )
           .attr("stroke", function(d){ return myColor(selectedGroup) })
     }
