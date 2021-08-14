@@ -1,32 +1,24 @@
 from flask import Flask, render_template
-from flask_sqlalchemy import SQLAlchemy
+from flask.json import jsonify
 from datetime import datetime
+from flask_cors import CORS
 
+# Import our pymongo library, which lets us connect our Flask app to our Mongo database.
+import pymongo
+import json
+
+# Create an instance of our Flask app.
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABSE_URI'] = 'sqlite:///posts.db'
-db = SQLAlchemy(app)
+CORS(app)
 
-class BlogPost(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    title = db.Column(db.String(100), nullable=False)
-    content = db.Column(db.Text, nullable=False)
-    title = db.Column(db.String(20), nullable=False)
-    title = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+# Create connection variable
+conn = 'mongodb://localhost:27017'
 
-    def __repr__(self):
-        return 'Blog post ' + str(self.id)
+# Pass connection to the pymongo instance.
+client = pymongo.MongoClient(conn)
 
-all_posts = [
-    {
-            'title': 'Post 1',
-            'content': 'This is the content of post 1. Lalala.',
-            'author': 'David'
-    },
-    {
-            'title': 'Post 2',
-            'content': 'This is the content of post 2. Lalala.'
-    }
-]
+# Connect to a database. Will create one if not already available.
+db = client.poverty_db
 
 @app.route('/')
 def index():
@@ -34,7 +26,22 @@ def index():
 
 @app.route('/posts')
 def posts():
-    return render_template('posts.html', posts=all_posts)
+    return render_template('posts.html')
+
+@app.route('/dashboard')
+def dashboard():
+    return render_template('dashboard.html')
+
+@app.route('/api')
+def get_data():
+    try:
+        q = db.poverty.find({})
+        docs = [doc for doc in q]
+        print(len(docs))
+        return jsonify(docs)
+    except Exception as e:
+        return jsonify({"message":e})
+        
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='10.5.0.2', port=8080, debug=True, threaded=True)
