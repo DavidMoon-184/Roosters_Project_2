@@ -6,6 +6,7 @@ from flask_cors import CORS
 # Import our pymongo library, which lets us connect our Flask app to our Mongo database.
 import pymongo
 import json
+import pandas as pd
 
 # Create an instance of our Flask app.
 app = Flask(__name__)
@@ -17,9 +18,6 @@ conn = 'mongodb://localhost:27017'
 # Pass connection to the pymongo instance.
 client = pymongo.MongoClient(conn)
 
-# Connect to a database. Will create one if not already available.
-db = client.poverty_db
-
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -28,14 +26,37 @@ def index():
 def posts():
     return render_template('posts.html')
 
-@app.route('/dashboard')
-def dashboard():
-    return render_template('dashboard.html')
+@app.route('/inner_page')
+def inner_page():
+    return render_template('inner_page.html')
 
 @app.route('/api')
 def get_data():
+    db = client.poverty_db
     try:
         q = db.poverty.find({})
+        docs = [doc for doc in q]
+        print(len(docs))
+        return jsonify(docs)
+    except Exception as e:
+        return jsonify({"message":e})
+
+@app.route('/api/primary-school')
+def get_primary_school():
+    db = client.primary_school_db
+    try:
+        q = db.primary_school.find({})
+        docs = [doc for doc in q]
+        print(len(docs))
+        return jsonify(docs)
+    except Exception as e:
+        return jsonify({"message":e})
+
+@app.route('/api/primary-completion')
+def get_primary_completion():
+    db = client.primary_completion_db
+    try:
+        q = db.primary_completion.find({})
         docs = [doc for doc in q]
         print(len(docs))
         return jsonify(docs)
@@ -44,4 +65,4 @@ def get_data():
         
 
 if __name__ == "__main__":
-    app.run(host='10.5.0.2', port=8080, debug=True, threaded=True)
+    app.run(host='0.0.0.0', port=5000, debug=True, threaded=True)
