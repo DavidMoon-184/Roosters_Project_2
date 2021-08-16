@@ -76,21 +76,23 @@
 
     <section class="inner-page">
       <div class="container">
+        <div id="primary_plot"></div>
         <div class="row gy-4">
-          <div class="col-lg-10">
-            <div id="myDiv2"></div>
-          </div>
-          <div class="col-lg-2">
+          <div class="col-lg-12">
 
             <div class="portfolio-description">
               <h2>Primary School Completion</h2>
               <p>
-                The first visualization is a chloropleth map visualizing the percentages of primary school completion over time by country. The second shows is a line plot separating the percentages by gender. Both show an overall positive trend.
+                The first visualization is a line plot separating the percentages by gender. The second shows is a chloropleth map visualizing the percentages of primary school completion over time by country. Both show an overall positive trend.
               </p>
             </div>
           </div>
+          <div class="col-lg-12">
+            <div id="myDiv2"></div>
+          </div>
+
           <div class="col-lg-10">
-            <div id="container"></div>
+            <div id="bar_race"></div>
             <div id="play-controls">
               <button id='play-pause-button' class="fa fa-play" title="play"></button>
               <input id="play-range" type="range" value="1960" min="2000" max="2021" />
@@ -154,6 +156,7 @@
   <!-- Template Main JS File -->
   <script src="../static/js/main.js"></script>
   <script src="../static/js/us_foreign_aid.js"></script>
+  <script src="../static/js/primary_plots_ej.js"></script>
   <script src="../static/js/global_map_plot2.js"></script>
 </body>
 
