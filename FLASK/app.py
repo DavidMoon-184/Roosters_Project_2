@@ -26,9 +26,17 @@ def index():
 def posts():
     return render_template('posts.html')
 
-@app.route('/inner_page')
-def inner_page():
-    return render_template('inner_page.html')
+@app.route('/primary_school')
+def primary_school():
+    return render_template('primary_school.html')
+
+@app.route('/poverty_rate')
+def poverty_rate():
+    return render_template('poverty_rate.html')
+
+@app.route('/birth_rate')
+def birth_rate():
+    return render_template('birth_rate.html')
 
 @app.route('/api')
 def get_data():
@@ -65,4 +73,4 @@ def get_primary_completion():
         
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True, threaded=True)
+    app.run(host='10.5.0.2', port=8080, debug=True, threaded=True)
