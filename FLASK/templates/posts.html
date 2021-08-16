@@ -30,7 +30,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data 
-d3.json('/api', function(error,data) {
+d3.csv('https://raw.githubusercontent.com/open-numbers/ddf--gapminder--systema_globalis/master/countries-etc-datapoints/ddf--datapoints--poverty_percent_people_below_550_a_day--by--geo--time.csv', function(error,data) {
     // List of groups (here I have one group per column)
     console.log(error)
     console.log(data)
