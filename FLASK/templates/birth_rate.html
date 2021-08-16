@@ -76,21 +76,22 @@
 
     <section class="inner-page">
       <div class="container">
+        <div id="child_total"></div>
         <div class="row gy-4">
-          <div class="col-lg-10">
-            <div id="myDiv2"></div>
-          </div>
-          <div class="col-lg-2">
-
+          <div class="col-lg-12">
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>Population of Children </h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                The first area graph shows the estimated total population of children in the world over time. The second line plot graphs the population ratio estimates of children over time. The overall number of children are expected to remain the same over the next 80 years, leading to a decline in the overall ratio of children in the world.
               </p>
             </div>
           </div>
+          <div class="col-lg-12">
+            <div id="child_ratio"></div>
+          </div>
+
           <div class="col-lg-10">
-              <div id="container"></div>
+              <div id="bar_race"></div>
               <div id="play-controls">
                 <button id='play-pause-button' class="fa fa-play" title="play"></button>
                 <input id="play-range" type="range" value="1960" min="2000" max="2021" />
@@ -153,7 +154,8 @@
 
   <!-- Template Main JS File -->
   <script src="../static/js/main.js"></script>
-  <script src="../static/js/global_map_plot2.js"></script>
+  <script src="../static/js/child_pop_rate.js"></script>
+  <script src="../static/js/children_population.js"></script>
   <script src="../static/js/us_foreign_aid.js"></script>
 </body>
 
