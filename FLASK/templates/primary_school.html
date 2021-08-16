@@ -23,11 +23,14 @@
   <link href="../static/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="../static/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="../static/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="../static/css/us_foreign_aid.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="../static/css/style.css" rel="stylesheet">
   <script src='https://cdn.plot.ly/plotly-2.3.1.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/stock/modules/data.js"></script>
 </head>
 
 <body>
@@ -87,7 +90,11 @@
             </div>
           </div>
           <div class="col-lg-10">
-            <div id="line_complete"></div>
+            <div id="container"></div>
+            <div id="play-controls">
+              <button id='play-pause-button' class="fa fa-play" title="play"></button>
+              <input id="play-range" type="range" value="1960" min="2000" max="2021" />
+            </div>
           </div>
             
           
@@ -146,7 +153,7 @@
 
   <!-- Template Main JS File -->
   <script src="../static/js/main.js"></script>
-  <script src="../static/js/line_complete.js"></script>
+  <script src="../static/js/us_foreign_aid.js"></script>
   <script src="../static/js/global_map_plot2.js"></script>
 </body>
 
