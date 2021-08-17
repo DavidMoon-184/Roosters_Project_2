@@ -1,0 +1,10160 @@
+[
+  {
+    "_id": "doc_0", 
+    "geo": "world", 
+    "poverty_percent": 42.5, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_1", 
+    "geo": "world", 
+    "poverty_percent": 42.1, 
+    "time": 1982
+  }, 
+  {
+    "_id": "doc_2", 
+    "geo": "world", 
+    "poverty_percent": 41.2, 
+    "time": 1983
+  }, 
+  {
+    "_id": "doc_3", 
+    "geo": "world", 
+    "poverty_percent": 39.6, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_4", 
+    "geo": "world", 
+    "poverty_percent": 38.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_5", 
+    "geo": "world", 
+    "poverty_percent": 36.7, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_6", 
+    "geo": "world", 
+    "poverty_percent": 35.7, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_7", 
+    "geo": "world", 
+    "poverty_percent": 33.6, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_8", 
+    "geo": "world", 
+    "poverty_percent": 36.8, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_9", 
+    "geo": "world", 
+    "poverty_percent": 36.2, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_10", 
+    "geo": "world", 
+    "poverty_percent": 36.1, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_11", 
+    "geo": "world", 
+    "poverty_percent": 35.1, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_12", 
+    "geo": "world", 
+    "poverty_percent": 34.3, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_13", 
+    "geo": "world", 
+    "poverty_percent": 33.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_14", 
+    "geo": "world", 
+    "poverty_percent": 31.3, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_15", 
+    "geo": "world", 
+    "poverty_percent": 29.7, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_16", 
+    "geo": "world", 
+    "poverty_percent": 29.6, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_17", 
+    "geo": "world", 
+    "poverty_percent": 30.0, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_18", 
+    "geo": "world", 
+    "poverty_percent": 28.9, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_19", 
+    "geo": "world", 
+    "poverty_percent": 27.7, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_20", 
+    "geo": "world", 
+    "poverty_percent": 26.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_21", 
+    "geo": "world", 
+    "poverty_percent": 25.7, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_22", 
+    "geo": "world", 
+    "poverty_percent": 24.7, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_23", 
+    "geo": "world", 
+    "poverty_percent": 22.9, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_24", 
+    "geo": "world", 
+    "poverty_percent": 20.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_25", 
+    "geo": "world", 
+    "poverty_percent": 20.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_26", 
+    "geo": "world", 
+    "poverty_percent": 19.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_27", 
+    "geo": "world", 
+    "poverty_percent": 18.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_28", 
+    "geo": "world", 
+    "poverty_percent": 17.6, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_29", 
+    "geo": "world", 
+    "poverty_percent": 16.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_30", 
+    "geo": "world", 
+    "poverty_percent": 13.8, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_31", 
+    "geo": "world", 
+    "poverty_percent": 12.9, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_32", 
+    "geo": "world", 
+    "poverty_percent": 11.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_33", 
+    "geo": "world", 
+    "poverty_percent": 10.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_34", 
+    "geo": "world", 
+    "poverty_percent": 10.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_35", 
+    "geo": "world", 
+    "poverty_percent": 9.7, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_36", 
+    "geo": "world", 
+    "poverty_percent": 9.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_37", 
+    "geo": "ago", 
+    "poverty_percent": 36.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_38", 
+    "geo": "ago", 
+    "poverty_percent": 34.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_39", 
+    "geo": "ago", 
+    "poverty_percent": 51.8, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_40", 
+    "geo": "alb", 
+    "poverty_percent": 0.9, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_41", 
+    "geo": "alb", 
+    "poverty_percent": 1.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_42", 
+    "geo": "alb", 
+    "poverty_percent": 0.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_43", 
+    "geo": "alb", 
+    "poverty_percent": 0.3, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_44", 
+    "geo": "alb", 
+    "poverty_percent": 0.8, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_45", 
+    "geo": "alb", 
+    "poverty_percent": 1.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_46", 
+    "geo": "alb", 
+    "poverty_percent": 1.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_47", 
+    "geo": "alb", 
+    "poverty_percent": 0.9, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_48", 
+    "geo": "alb", 
+    "poverty_percent": 1.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_49", 
+    "geo": "are", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_50", 
+    "geo": "arg", 
+    "poverty_percent": 0.5, 
+    "time": 1980
+  }, 
+  {
+    "_id": "doc_51", 
+    "geo": "arg", 
+    "poverty_percent": 0.0, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_52", 
+    "geo": "arg", 
+    "poverty_percent": 0.0, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_53", 
+    "geo": "arg", 
+    "poverty_percent": 1.3, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_54", 
+    "geo": "arg", 
+    "poverty_percent": 2.5, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_55", 
+    "geo": "arg", 
+    "poverty_percent": 2.8, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_56", 
+    "geo": "arg", 
+    "poverty_percent": 2.7, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_57", 
+    "geo": "arg", 
+    "poverty_percent": 4.9, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_58", 
+    "geo": "arg", 
+    "poverty_percent": 5.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_59", 
+    "geo": "arg", 
+    "poverty_percent": 4.8, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_60", 
+    "geo": "arg", 
+    "poverty_percent": 5.6, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_61", 
+    "geo": "arg", 
+    "poverty_percent": 5.5, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_62", 
+    "geo": "arg", 
+    "poverty_percent": 6.8, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_63", 
+    "geo": "arg", 
+    "poverty_percent": 10.7, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_64", 
+    "geo": "arg", 
+    "poverty_percent": 16.9, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_65", 
+    "geo": "arg", 
+    "poverty_percent": 8.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_66", 
+    "geo": "arg", 
+    "poverty_percent": 6.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_67", 
+    "geo": "arg", 
+    "poverty_percent": 4.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_68", 
+    "geo": "arg", 
+    "poverty_percent": 3.9, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_69", 
+    "geo": "arg", 
+    "poverty_percent": 3.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_70", 
+    "geo": "arg", 
+    "poverty_percent": 3.3, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_71", 
+    "geo": "arg", 
+    "poverty_percent": 3.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_72", 
+    "geo": "arg", 
+    "poverty_percent": 2.8, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_73", 
+    "geo": "arg", 
+    "poverty_percent": 1.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_74", 
+    "geo": "arg", 
+    "poverty_percent": 1.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_75", 
+    "geo": "arg", 
+    "poverty_percent": 1.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_76", 
+    "geo": "arg", 
+    "poverty_percent": 0.9, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_77", 
+    "geo": "arg", 
+    "poverty_percent": 1.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_78", 
+    "geo": "arg", 
+    "poverty_percent": 0.8, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_79", 
+    "geo": "arg", 
+    "poverty_percent": 1.3, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_80", 
+    "geo": "arm", 
+    "poverty_percent": 12.2, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_81", 
+    "geo": "arm", 
+    "poverty_percent": 14.4, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_82", 
+    "geo": "arm", 
+    "poverty_percent": 10.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_83", 
+    "geo": "arm", 
+    "poverty_percent": 7.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_84", 
+    "geo": "arm", 
+    "poverty_percent": 5.5, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_85", 
+    "geo": "arm", 
+    "poverty_percent": 2.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_86", 
+    "geo": "arm", 
+    "poverty_percent": 2.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_87", 
+    "geo": "arm", 
+    "poverty_percent": 1.6, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_88", 
+    "geo": "arm", 
+    "poverty_percent": 0.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_89", 
+    "geo": "arm", 
+    "poverty_percent": 1.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_90", 
+    "geo": "arm", 
+    "poverty_percent": 1.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_91", 
+    "geo": "arm", 
+    "poverty_percent": 1.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_92", 
+    "geo": "arm", 
+    "poverty_percent": 0.9, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_93", 
+    "geo": "arm", 
+    "poverty_percent": 1.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_94", 
+    "geo": "arm", 
+    "poverty_percent": 1.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_95", 
+    "geo": "arm", 
+    "poverty_percent": 1.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_96", 
+    "geo": "arm", 
+    "poverty_percent": 1.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_97", 
+    "geo": "arm", 
+    "poverty_percent": 0.9, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_98", 
+    "geo": "arm", 
+    "poverty_percent": 1.4, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_99", 
+    "geo": "aus", 
+    "poverty_percent": 1.0, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_100", 
+    "geo": "aus", 
+    "poverty_percent": 1.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_101", 
+    "geo": "aus", 
+    "poverty_percent": 0.7, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_102", 
+    "geo": "aus", 
+    "poverty_percent": 1.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_103", 
+    "geo": "aus", 
+    "poverty_percent": 0.7, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_104", 
+    "geo": "aus", 
+    "poverty_percent": 1.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_105", 
+    "geo": "aus", 
+    "poverty_percent": 0.5, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_106", 
+    "geo": "aus", 
+    "poverty_percent": 0.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_107", 
+    "geo": "aus", 
+    "poverty_percent": 0.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_108", 
+    "geo": "aus", 
+    "poverty_percent": 0.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_109", 
+    "geo": "aut", 
+    "poverty_percent": 0.0, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_110", 
+    "geo": "aut", 
+    "poverty_percent": 0.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_111", 
+    "geo": "aut", 
+    "poverty_percent": 1.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_112", 
+    "geo": "aut", 
+    "poverty_percent": 0.2, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_113", 
+    "geo": "aut", 
+    "poverty_percent": 0.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_114", 
+    "geo": "aut", 
+    "poverty_percent": 0.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_115", 
+    "geo": "aut", 
+    "poverty_percent": 0.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_116", 
+    "geo": "aut", 
+    "poverty_percent": 0.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_117", 
+    "geo": "aut", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_118", 
+    "geo": "aut", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_119", 
+    "geo": "aut", 
+    "poverty_percent": 0.5, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_120", 
+    "geo": "aut", 
+    "poverty_percent": 0.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_121", 
+    "geo": "aut", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_122", 
+    "geo": "aut", 
+    "poverty_percent": 0.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_123", 
+    "geo": "aut", 
+    "poverty_percent": 0.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_124", 
+    "geo": "aut", 
+    "poverty_percent": 0.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_125", 
+    "geo": "aut", 
+    "poverty_percent": 0.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_126", 
+    "geo": "aut", 
+    "poverty_percent": 0.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_127", 
+    "geo": "aut", 
+    "poverty_percent": 0.7, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_128", 
+    "geo": "aut", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_129", 
+    "geo": "aze", 
+    "poverty_percent": 7.1, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_130", 
+    "geo": "aze", 
+    "poverty_percent": 2.6, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_131", 
+    "geo": "aze", 
+    "poverty_percent": 0.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_132", 
+    "geo": "aze", 
+    "poverty_percent": 0.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_133", 
+    "geo": "aze", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_134", 
+    "geo": "aze", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_135", 
+    "geo": "bdi", 
+    "poverty_percent": 81.9, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_136", 
+    "geo": "bdi", 
+    "poverty_percent": 84.7, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_137", 
+    "geo": "bdi", 
+    "poverty_percent": 78.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_138", 
+    "geo": "bdi", 
+    "poverty_percent": 72.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_139", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_140", 
+    "geo": "bel", 
+    "poverty_percent": 0.5, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_141", 
+    "geo": "bel", 
+    "poverty_percent": 1.0, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_142", 
+    "geo": "bel", 
+    "poverty_percent": 0.4, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_143", 
+    "geo": "bel", 
+    "poverty_percent": 0.5, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_144", 
+    "geo": "bel", 
+    "poverty_percent": 0.3, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_145", 
+    "geo": "bel", 
+    "poverty_percent": 0.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_146", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_147", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_148", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_149", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_150", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_151", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_152", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_153", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_154", 
+    "geo": "bel", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_155", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_156", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_157", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_158", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_159", 
+    "geo": "bel", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_160", 
+    "geo": "ben", 
+    "poverty_percent": 48.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_161", 
+    "geo": "ben", 
+    "poverty_percent": 53.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_162", 
+    "geo": "ben", 
+    "poverty_percent": 49.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_163", 
+    "geo": "bfa", 
+    "poverty_percent": 83.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_164", 
+    "geo": "bfa", 
+    "poverty_percent": 81.6, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_165", 
+    "geo": "bfa", 
+    "poverty_percent": 57.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_166", 
+    "geo": "bfa", 
+    "poverty_percent": 55.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_167", 
+    "geo": "bfa", 
+    "poverty_percent": 43.8, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_168", 
+    "geo": "bgd", 
+    "poverty_percent": 29.5, 
+    "time": 1983
+  }, 
+  {
+    "_id": "doc_169", 
+    "geo": "bgd", 
+    "poverty_percent": 25.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_170", 
+    "geo": "bgd", 
+    "poverty_percent": 37.4, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_171", 
+    "geo": "bgd", 
+    "poverty_percent": 43.7, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_172", 
+    "geo": "bgd", 
+    "poverty_percent": 35.3, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_173", 
+    "geo": "bgd", 
+    "poverty_percent": 34.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_174", 
+    "geo": "bgd", 
+    "poverty_percent": 25.4, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_175", 
+    "geo": "bgd", 
+    "poverty_percent": 19.4, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_176", 
+    "geo": "bgd", 
+    "poverty_percent": 14.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_177", 
+    "geo": "bgr", 
+    "poverty_percent": 5.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_178", 
+    "geo": "bgr", 
+    "poverty_percent": 1.8, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_179", 
+    "geo": "bgr", 
+    "poverty_percent": 1.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_180", 
+    "geo": "bgr", 
+    "poverty_percent": 1.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_181", 
+    "geo": "bgr", 
+    "poverty_percent": 2.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_182", 
+    "geo": "bgr", 
+    "poverty_percent": 2.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_183", 
+    "geo": "bgr", 
+    "poverty_percent": 2.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_184", 
+    "geo": "bgr", 
+    "poverty_percent": 1.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_185", 
+    "geo": "bgr", 
+    "poverty_percent": 1.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_186", 
+    "geo": "bgr", 
+    "poverty_percent": 3.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_187", 
+    "geo": "bgr", 
+    "poverty_percent": 1.9, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_188", 
+    "geo": "bgr", 
+    "poverty_percent": 1.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_189", 
+    "geo": "bih", 
+    "poverty_percent": 0.3, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_190", 
+    "geo": "bih", 
+    "poverty_percent": 0.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_191", 
+    "geo": "bih", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_192", 
+    "geo": "bih", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_193", 
+    "geo": "blr", 
+    "poverty_percent": 11.8, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_194", 
+    "geo": "blr", 
+    "poverty_percent": 10.6, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_195", 
+    "geo": "blr", 
+    "poverty_percent": 7.3, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_196", 
+    "geo": "blr", 
+    "poverty_percent": 3.2, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_197", 
+    "geo": "blr", 
+    "poverty_percent": 2.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_198", 
+    "geo": "blr", 
+    "poverty_percent": 1.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_199", 
+    "geo": "blr", 
+    "poverty_percent": 0.3, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_200", 
+    "geo": "blr", 
+    "poverty_percent": 0.4, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_201", 
+    "geo": "blr", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_202", 
+    "geo": "blr", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_203", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_204", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_205", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_206", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_207", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_208", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_209", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_210", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_211", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_212", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_213", 
+    "geo": "blr", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_214", 
+    "geo": "blz", 
+    "poverty_percent": 10.1, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_215", 
+    "geo": "blz", 
+    "poverty_percent": 9.7, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_216", 
+    "geo": "blz", 
+    "poverty_percent": 13.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_217", 
+    "geo": "blz", 
+    "poverty_percent": 16.0, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_218", 
+    "geo": "blz", 
+    "poverty_percent": 14.2, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_219", 
+    "geo": "blz", 
+    "poverty_percent": 13.9, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_220", 
+    "geo": "bol", 
+    "poverty_percent": 15.0, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_221", 
+    "geo": "bol", 
+    "poverty_percent": 19.3, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_222", 
+    "geo": "bol", 
+    "poverty_percent": 25.2, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_223", 
+    "geo": "bol", 
+    "poverty_percent": 28.6, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_224", 
+    "geo": "bol", 
+    "poverty_percent": 22.8, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_225", 
+    "geo": "bol", 
+    "poverty_percent": 24.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_226", 
+    "geo": "bol", 
+    "poverty_percent": 13.6, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_227", 
+    "geo": "bol", 
+    "poverty_percent": 19.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_228", 
+    "geo": "bol", 
+    "poverty_percent": 16.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_229", 
+    "geo": "bol", 
+    "poverty_percent": 12.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_230", 
+    "geo": "bol", 
+    "poverty_percent": 11.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_231", 
+    "geo": "bol", 
+    "poverty_percent": 10.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_232", 
+    "geo": "bol", 
+    "poverty_percent": 7.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_233", 
+    "geo": "bol", 
+    "poverty_percent": 8.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_234", 
+    "geo": "bol", 
+    "poverty_percent": 6.9, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_235", 
+    "geo": "bol", 
+    "poverty_percent": 5.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_236", 
+    "geo": "bol", 
+    "poverty_percent": 6.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_237", 
+    "geo": "bol", 
+    "poverty_percent": 7.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_238", 
+    "geo": "bol", 
+    "poverty_percent": 5.8, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_239", 
+    "geo": "bol", 
+    "poverty_percent": 4.5, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_240", 
+    "geo": "bra", 
+    "poverty_percent": 21.3, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_241", 
+    "geo": "bra", 
+    "poverty_percent": 21.7, 
+    "time": 1982
+  }, 
+  {
+    "_id": "doc_242", 
+    "geo": "bra", 
+    "poverty_percent": 27.4, 
+    "time": 1983
+  }, 
+  {
+    "_id": "doc_243", 
+    "geo": "bra", 
+    "poverty_percent": 26.7, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_244", 
+    "geo": "bra", 
+    "poverty_percent": 23.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_245", 
+    "geo": "bra", 
+    "poverty_percent": 10.5, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_246", 
+    "geo": "bra", 
+    "poverty_percent": 17.7, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_247", 
+    "geo": "bra", 
+    "poverty_percent": 20.0, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_248", 
+    "geo": "bra", 
+    "poverty_percent": 18.2, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_249", 
+    "geo": "bra", 
+    "poverty_percent": 21.5, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_250", 
+    "geo": "bra", 
+    "poverty_percent": 20.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_251", 
+    "geo": "bra", 
+    "poverty_percent": 19.8, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_252", 
+    "geo": "bra", 
+    "poverty_percent": 12.9, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_253", 
+    "geo": "bra", 
+    "poverty_percent": 14.1, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_254", 
+    "geo": "bra", 
+    "poverty_percent": 14.0, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_255", 
+    "geo": "bra", 
+    "poverty_percent": 12.7, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_256", 
+    "geo": "bra", 
+    "poverty_percent": 13.3, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_257", 
+    "geo": "bra", 
+    "poverty_percent": 11.5, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_258", 
+    "geo": "bra", 
+    "poverty_percent": 10.2, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_259", 
+    "geo": "bra", 
+    "poverty_percent": 11.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_260", 
+    "geo": "bra", 
+    "poverty_percent": 9.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_261", 
+    "geo": "bra", 
+    "poverty_percent": 8.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_262", 
+    "geo": "bra", 
+    "poverty_percent": 7.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_263", 
+    "geo": "bra", 
+    "poverty_percent": 6.7, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_264", 
+    "geo": "bra", 
+    "poverty_percent": 5.5, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_265", 
+    "geo": "bra", 
+    "poverty_percent": 5.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_266", 
+    "geo": "bra", 
+    "poverty_percent": 4.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_267", 
+    "geo": "bra", 
+    "poverty_percent": 3.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_268", 
+    "geo": "bra", 
+    "poverty_percent": 3.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_269", 
+    "geo": "bra", 
+    "poverty_percent": 2.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_270", 
+    "geo": "bra", 
+    "poverty_percent": 3.2, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_271", 
+    "geo": "bra", 
+    "poverty_percent": 3.9, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_272", 
+    "geo": "bra", 
+    "poverty_percent": 4.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_273", 
+    "geo": "bra", 
+    "poverty_percent": 4.4, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_274", 
+    "geo": "btn", 
+    "poverty_percent": 17.8, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_275", 
+    "geo": "btn", 
+    "poverty_percent": 8.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_276", 
+    "geo": "btn", 
+    "poverty_percent": 2.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_277", 
+    "geo": "btn", 
+    "poverty_percent": 1.5, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_278", 
+    "geo": "bwa", 
+    "poverty_percent": 40.9, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_279", 
+    "geo": "bwa", 
+    "poverty_percent": 33.3, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_280", 
+    "geo": "bwa", 
+    "poverty_percent": 28.2, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_281", 
+    "geo": "bwa", 
+    "poverty_percent": 17.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_282", 
+    "geo": "bwa", 
+    "poverty_percent": 14.5, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_283", 
+    "geo": "caf", 
+    "poverty_percent": 84.1, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_284", 
+    "geo": "caf", 
+    "poverty_percent": 64.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_285", 
+    "geo": "caf", 
+    "poverty_percent": 65.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_286", 
+    "geo": "can", 
+    "poverty_percent": 2.2, 
+    "time": 1971
+  }, 
+  {
+    "_id": "doc_287", 
+    "geo": "can", 
+    "poverty_percent": 1.0, 
+    "time": 1975
+  }, 
+  {
+    "_id": "doc_288", 
+    "geo": "can", 
+    "poverty_percent": 0.5, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_289", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_290", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_291", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_292", 
+    "geo": "can", 
+    "poverty_percent": 0.5, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_293", 
+    "geo": "can", 
+    "poverty_percent": 0.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_294", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_295", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_296", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_297", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_298", 
+    "geo": "can", 
+    "poverty_percent": 0.5, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_299", 
+    "geo": "can", 
+    "poverty_percent": 0.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_300", 
+    "geo": "che", 
+    "poverty_percent": 0.7, 
+    "time": 1982
+  }, 
+  {
+    "_id": "doc_301", 
+    "geo": "che", 
+    "poverty_percent": 0.5, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_302", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_303", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_304", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_305", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_306", 
+    "geo": "che", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_307", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_308", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_309", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_310", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_311", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_312", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_313", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_314", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_315", 
+    "geo": "che", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_316", 
+    "geo": "chl", 
+    "poverty_percent": 11.4, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_317", 
+    "geo": "chl", 
+    "poverty_percent": 7.9, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_318", 
+    "geo": "chl", 
+    "poverty_percent": 4.6, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_319", 
+    "geo": "chl", 
+    "poverty_percent": 4.9, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_320", 
+    "geo": "chl", 
+    "poverty_percent": 3.4, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_321", 
+    "geo": "chl", 
+    "poverty_percent": 3.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_322", 
+    "geo": "chl", 
+    "poverty_percent": 4.3, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_323", 
+    "geo": "chl", 
+    "poverty_percent": 4.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_324", 
+    "geo": "chl", 
+    "poverty_percent": 1.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_325", 
+    "geo": "chl", 
+    "poverty_percent": 1.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_326", 
+    "geo": "chl", 
+    "poverty_percent": 0.6, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_327", 
+    "geo": "chl", 
+    "poverty_percent": 0.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_328", 
+    "geo": "chl", 
+    "poverty_percent": 0.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_329", 
+    "geo": "chl", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_330", 
+    "geo": "chn", 
+    "poverty_percent": 66.3, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_331", 
+    "geo": "chn", 
+    "poverty_percent": 56.7, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_332", 
+    "geo": "chn", 
+    "poverty_percent": 41.7, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_333", 
+    "geo": "chn", 
+    "poverty_percent": 40.3, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_334", 
+    "geo": "chn", 
+    "poverty_percent": 31.7, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_335", 
+    "geo": "chn", 
+    "poverty_percent": 18.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_336", 
+    "geo": "chn", 
+    "poverty_percent": 14.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_337", 
+    "geo": "chn", 
+    "poverty_percent": 11.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_338", 
+    "geo": "chn", 
+    "poverty_percent": 7.9, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_339", 
+    "geo": "chn", 
+    "poverty_percent": 6.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_340", 
+    "geo": "chn", 
+    "poverty_percent": 1.9, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_341", 
+    "geo": "chn", 
+    "poverty_percent": 1.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_342", 
+    "geo": "chn", 
+    "poverty_percent": 0.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_343", 
+    "geo": "chn", 
+    "poverty_percent": 0.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_344", 
+    "geo": "civ", 
+    "poverty_percent": 7.6, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_345", 
+    "geo": "civ", 
+    "poverty_percent": 3.5, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_346", 
+    "geo": "civ", 
+    "poverty_percent": 7.4, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_347", 
+    "geo": "civ", 
+    "poverty_percent": 11.9, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_348", 
+    "geo": "civ", 
+    "poverty_percent": 23.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_349", 
+    "geo": "civ", 
+    "poverty_percent": 21.6, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_350", 
+    "geo": "civ", 
+    "poverty_percent": 27.0, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_351", 
+    "geo": "civ", 
+    "poverty_percent": 24.4, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_352", 
+    "geo": "civ", 
+    "poverty_percent": 30.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_353", 
+    "geo": "civ", 
+    "poverty_percent": 29.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_354", 
+    "geo": "cmr", 
+    "poverty_percent": 51.2, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_355", 
+    "geo": "cmr", 
+    "poverty_percent": 26.0, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_356", 
+    "geo": "cmr", 
+    "poverty_percent": 31.8, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_357", 
+    "geo": "cmr", 
+    "poverty_percent": 26.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_358", 
+    "geo": "cod", 
+    "poverty_percent": 94.3, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_359", 
+    "geo": "cod", 
+    "poverty_percent": 77.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_360", 
+    "geo": "cog", 
+    "poverty_percent": 55.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_361", 
+    "geo": "cog", 
+    "poverty_percent": 38.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_362", 
+    "geo": "col", 
+    "poverty_percent": 9.0, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_363", 
+    "geo": "col", 
+    "poverty_percent": 16.7, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_364", 
+    "geo": "col", 
+    "poverty_percent": 20.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_365", 
+    "geo": "col", 
+    "poverty_percent": 16.8, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_366", 
+    "geo": "col", 
+    "poverty_percent": 19.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_367", 
+    "geo": "col", 
+    "poverty_percent": 14.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_368", 
+    "geo": "col", 
+    "poverty_percent": 12.2, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_369", 
+    "geo": "col", 
+    "poverty_percent": 11.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_370", 
+    "geo": "col", 
+    "poverty_percent": 9.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_371", 
+    "geo": "col", 
+    "poverty_percent": 10.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_372", 
+    "geo": "col", 
+    "poverty_percent": 9.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_373", 
+    "geo": "col", 
+    "poverty_percent": 7.9, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_374", 
+    "geo": "col", 
+    "poverty_percent": 6.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_375", 
+    "geo": "col", 
+    "poverty_percent": 6.3, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_376", 
+    "geo": "col", 
+    "poverty_percent": 5.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_377", 
+    "geo": "col", 
+    "poverty_percent": 5.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_378", 
+    "geo": "col", 
+    "poverty_percent": 4.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_379", 
+    "geo": "col", 
+    "poverty_percent": 4.7, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_380", 
+    "geo": "col", 
+    "poverty_percent": 4.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_381", 
+    "geo": "col", 
+    "poverty_percent": 4.2, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_382", 
+    "geo": "com", 
+    "poverty_percent": 15.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_383", 
+    "geo": "com", 
+    "poverty_percent": 19.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_384", 
+    "geo": "cpv", 
+    "poverty_percent": 16.6, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_385", 
+    "geo": "cpv", 
+    "poverty_percent": 8.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_386", 
+    "geo": "cpv", 
+    "poverty_percent": 3.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_387", 
+    "geo": "cri", 
+    "poverty_percent": 25.1, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_388", 
+    "geo": "cri", 
+    "poverty_percent": 13.5, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_389", 
+    "geo": "cri", 
+    "poverty_percent": 12.3, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_390", 
+    "geo": "cri", 
+    "poverty_percent": 10.2, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_391", 
+    "geo": "cri", 
+    "poverty_percent": 11.8, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_392", 
+    "geo": "cri", 
+    "poverty_percent": 9.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_393", 
+    "geo": "cri", 
+    "poverty_percent": 8.1, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_394", 
+    "geo": "cri", 
+    "poverty_percent": 6.8, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_395", 
+    "geo": "cri", 
+    "poverty_percent": 7.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_396", 
+    "geo": "cri", 
+    "poverty_percent": 8.1, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_397", 
+    "geo": "cri", 
+    "poverty_percent": 6.6, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_398", 
+    "geo": "cri", 
+    "poverty_percent": 5.1, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_399", 
+    "geo": "cri", 
+    "poverty_percent": 6.6, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_400", 
+    "geo": "cri", 
+    "poverty_percent": 6.7, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_401", 
+    "geo": "cri", 
+    "poverty_percent": 4.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_402", 
+    "geo": "cri", 
+    "poverty_percent": 4.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_403", 
+    "geo": "cri", 
+    "poverty_percent": 4.5, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_404", 
+    "geo": "cri", 
+    "poverty_percent": 4.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_405", 
+    "geo": "cri", 
+    "poverty_percent": 3.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_406", 
+    "geo": "cri", 
+    "poverty_percent": 3.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_407", 
+    "geo": "cri", 
+    "poverty_percent": 1.8, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_408", 
+    "geo": "cri", 
+    "poverty_percent": 2.3, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_409", 
+    "geo": "cri", 
+    "poverty_percent": 2.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_410", 
+    "geo": "cri", 
+    "poverty_percent": 1.6, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_411", 
+    "geo": "cri", 
+    "poverty_percent": 1.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_412", 
+    "geo": "cri", 
+    "poverty_percent": 1.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_413", 
+    "geo": "cri", 
+    "poverty_percent": 1.6, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_414", 
+    "geo": "cri", 
+    "poverty_percent": 1.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_415", 
+    "geo": "cri", 
+    "poverty_percent": 1.5, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_416", 
+    "geo": "cri", 
+    "poverty_percent": 1.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_417", 
+    "geo": "cri", 
+    "poverty_percent": 1.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_418", 
+    "geo": "cri", 
+    "poverty_percent": 1.5, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_419", 
+    "geo": "cyp", 
+    "poverty_percent": 0.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_420", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_421", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_422", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_423", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_424", 
+    "geo": "cyp", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_425", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_426", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_427", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_428", 
+    "geo": "cyp", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_429", 
+    "geo": "cyp", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_430", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_431", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_432", 
+    "geo": "cyp", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_433", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_434", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_435", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_436", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_437", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_438", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_439", 
+    "geo": "cze", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_440", 
+    "geo": "cze", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_441", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_442", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_443", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_444", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_445", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_446", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_447", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_448", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_449", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_450", 
+    "geo": "cze", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_451", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_452", 
+    "geo": "deu", 
+    "poverty_percent": 0.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_453", 
+    "geo": "deu", 
+    "poverty_percent": 0.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_454", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_455", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_456", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_457", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_458", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_459", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_460", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_461", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_462", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_463", 
+    "geo": "deu", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_464", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_465", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_466", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_467", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_468", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_469", 
+    "geo": "deu", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_470", 
+    "geo": "dji", 
+    "poverty_percent": 20.2, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_471", 
+    "geo": "dji", 
+    "poverty_percent": 18.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_472", 
+    "geo": "dji", 
+    "poverty_percent": 22.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_473", 
+    "geo": "dji", 
+    "poverty_percent": 17.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_474", 
+    "geo": "dnk", 
+    "poverty_percent": 0.5, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_475", 
+    "geo": "dnk", 
+    "poverty_percent": 0.5, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_476", 
+    "geo": "dnk", 
+    "poverty_percent": 0.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_477", 
+    "geo": "dnk", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_478", 
+    "geo": "dnk", 
+    "poverty_percent": 0.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_479", 
+    "geo": "dnk", 
+    "poverty_percent": 0.3, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_480", 
+    "geo": "dnk", 
+    "poverty_percent": 0.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_481", 
+    "geo": "dnk", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_482", 
+    "geo": "dnk", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_483", 
+    "geo": "dnk", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_484", 
+    "geo": "dnk", 
+    "poverty_percent": 0.5, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_485", 
+    "geo": "dnk", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_486", 
+    "geo": "dnk", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_487", 
+    "geo": "dnk", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_488", 
+    "geo": "dnk", 
+    "poverty_percent": 0.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_489", 
+    "geo": "dnk", 
+    "poverty_percent": 0.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_490", 
+    "geo": "dnk", 
+    "poverty_percent": 0.2, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_491", 
+    "geo": "dnk", 
+    "poverty_percent": 0.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_492", 
+    "geo": "dnk", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_493", 
+    "geo": "dom", 
+    "poverty_percent": 5.2, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_494", 
+    "geo": "dom", 
+    "poverty_percent": 13.4, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_495", 
+    "geo": "dom", 
+    "poverty_percent": 5.3, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_496", 
+    "geo": "dom", 
+    "poverty_percent": 4.9, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_497", 
+    "geo": "dom", 
+    "poverty_percent": 5.2, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_498", 
+    "geo": "dom", 
+    "poverty_percent": 5.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_499", 
+    "geo": "dom", 
+    "poverty_percent": 3.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_500", 
+    "geo": "dom", 
+    "poverty_percent": 5.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_501", 
+    "geo": "dom", 
+    "poverty_percent": 6.7, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_502", 
+    "geo": "dom", 
+    "poverty_percent": 8.5, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_503", 
+    "geo": "dom", 
+    "poverty_percent": 5.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_504", 
+    "geo": "dom", 
+    "poverty_percent": 4.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_505", 
+    "geo": "dom", 
+    "poverty_percent": 4.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_506", 
+    "geo": "dom", 
+    "poverty_percent": 3.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_507", 
+    "geo": "dom", 
+    "poverty_percent": 3.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_508", 
+    "geo": "dom", 
+    "poverty_percent": 2.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_509", 
+    "geo": "dom", 
+    "poverty_percent": 2.9, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_510", 
+    "geo": "dom", 
+    "poverty_percent": 2.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_511", 
+    "geo": "dom", 
+    "poverty_percent": 2.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_512", 
+    "geo": "dom", 
+    "poverty_percent": 2.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_513", 
+    "geo": "dom", 
+    "poverty_percent": 1.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_514", 
+    "geo": "dom", 
+    "poverty_percent": 1.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_515", 
+    "geo": "dom", 
+    "poverty_percent": 0.7, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_516", 
+    "geo": "dom", 
+    "poverty_percent": 0.4, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_517", 
+    "geo": "dza", 
+    "poverty_percent": 6.3, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_518", 
+    "geo": "dza", 
+    "poverty_percent": 5.6, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_519", 
+    "geo": "dza", 
+    "poverty_percent": 0.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_520", 
+    "geo": "ecu", 
+    "poverty_percent": 17.3, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_521", 
+    "geo": "ecu", 
+    "poverty_percent": 21.9, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_522", 
+    "geo": "ecu", 
+    "poverty_percent": 28.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_523", 
+    "geo": "ecu", 
+    "poverty_percent": 14.5, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_524", 
+    "geo": "ecu", 
+    "poverty_percent": 15.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_525", 
+    "geo": "ecu", 
+    "poverty_percent": 11.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_526", 
+    "geo": "ecu", 
+    "poverty_percent": 8.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_527", 
+    "geo": "ecu", 
+    "poverty_percent": 8.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_528", 
+    "geo": "ecu", 
+    "poverty_percent": 7.5, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_529", 
+    "geo": "ecu", 
+    "poverty_percent": 7.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_530", 
+    "geo": "ecu", 
+    "poverty_percent": 5.6, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_531", 
+    "geo": "ecu", 
+    "poverty_percent": 4.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_532", 
+    "geo": "ecu", 
+    "poverty_percent": 4.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_533", 
+    "geo": "ecu", 
+    "poverty_percent": 3.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_534", 
+    "geo": "ecu", 
+    "poverty_percent": 2.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_535", 
+    "geo": "ecu", 
+    "poverty_percent": 3.5, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_536", 
+    "geo": "ecu", 
+    "poverty_percent": 3.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_537", 
+    "geo": "ecu", 
+    "poverty_percent": 3.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_538", 
+    "geo": "ecu", 
+    "poverty_percent": 3.3, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_539", 
+    "geo": "egy", 
+    "poverty_percent": 8.7, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_540", 
+    "geo": "egy", 
+    "poverty_percent": 5.6, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_541", 
+    "geo": "egy", 
+    "poverty_percent": 2.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_542", 
+    "geo": "egy", 
+    "poverty_percent": 5.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_543", 
+    "geo": "egy", 
+    "poverty_percent": 4.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_544", 
+    "geo": "egy", 
+    "poverty_percent": 2.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_545", 
+    "geo": "egy", 
+    "poverty_percent": 1.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_546", 
+    "geo": "egy", 
+    "poverty_percent": 1.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_547", 
+    "geo": "egy", 
+    "poverty_percent": 3.8, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_548", 
+    "geo": "esp", 
+    "poverty_percent": 0.5, 
+    "time": 1980
+  }, 
+  {
+    "_id": "doc_549", 
+    "geo": "esp", 
+    "poverty_percent": 0.2, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_550", 
+    "geo": "esp", 
+    "poverty_percent": 0.5, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_551", 
+    "geo": "esp", 
+    "poverty_percent": 1.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_552", 
+    "geo": "esp", 
+    "poverty_percent": 0.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_553", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_554", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_555", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_556", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_557", 
+    "geo": "esp", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_558", 
+    "geo": "esp", 
+    "poverty_percent": 0.5, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_559", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_560", 
+    "geo": "esp", 
+    "poverty_percent": 0.7, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_561", 
+    "geo": "esp", 
+    "poverty_percent": 1.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_562", 
+    "geo": "esp", 
+    "poverty_percent": 0.9, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_563", 
+    "geo": "esp", 
+    "poverty_percent": 1.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_564", 
+    "geo": "esp", 
+    "poverty_percent": 0.8, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_565", 
+    "geo": "esp", 
+    "poverty_percent": 0.9, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_566", 
+    "geo": "esp", 
+    "poverty_percent": 1.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_567", 
+    "geo": "esp", 
+    "poverty_percent": 0.7, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_568", 
+    "geo": "est", 
+    "poverty_percent": 2.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_569", 
+    "geo": "est", 
+    "poverty_percent": 1.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_570", 
+    "geo": "est", 
+    "poverty_percent": 0.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_571", 
+    "geo": "est", 
+    "poverty_percent": 0.7, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_572", 
+    "geo": "est", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_573", 
+    "geo": "est", 
+    "poverty_percent": 0.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_574", 
+    "geo": "est", 
+    "poverty_percent": 0.6, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_575", 
+    "geo": "est", 
+    "poverty_percent": 0.7, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_576", 
+    "geo": "est", 
+    "poverty_percent": 1.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_577", 
+    "geo": "est", 
+    "poverty_percent": 0.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_578", 
+    "geo": "est", 
+    "poverty_percent": 0.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_579", 
+    "geo": "est", 
+    "poverty_percent": 0.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_580", 
+    "geo": "est", 
+    "poverty_percent": 0.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_581", 
+    "geo": "est", 
+    "poverty_percent": 0.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_582", 
+    "geo": "est", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_583", 
+    "geo": "eth", 
+    "poverty_percent": 72.3, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_584", 
+    "geo": "eth", 
+    "poverty_percent": 63.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_585", 
+    "geo": "eth", 
+    "poverty_percent": 39.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_586", 
+    "geo": "eth", 
+    "poverty_percent": 35.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_587", 
+    "geo": "eth", 
+    "poverty_percent": 32.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_588", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_589", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_590", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_591", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_592", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_593", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_594", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_595", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_596", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_597", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_598", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_599", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_600", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_601", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_602", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_603", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_604", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_605", 
+    "geo": "fin", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_606", 
+    "geo": "fin", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_607", 
+    "geo": "fji", 
+    "poverty_percent": 2.3, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_608", 
+    "geo": "fji", 
+    "poverty_percent": 1.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_609", 
+    "geo": "fji", 
+    "poverty_percent": 0.5, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_610", 
+    "geo": "fra", 
+    "poverty_percent": 1.0, 
+    "time": 1978
+  }, 
+  {
+    "_id": "doc_611", 
+    "geo": "fra", 
+    "poverty_percent": 1.5, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_612", 
+    "geo": "fra", 
+    "poverty_percent": 1.0, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_613", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_614", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_615", 
+    "geo": "fra", 
+    "poverty_percent": 0.2, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_616", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_617", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_618", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_619", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_620", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_621", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_622", 
+    "geo": "fra", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_623", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_624", 
+    "geo": "fra", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_625", 
+    "geo": "fra", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_626", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_627", 
+    "geo": "fra", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_628", 
+    "geo": "fra", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_629", 
+    "geo": "fra", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_630", 
+    "geo": "fsm", 
+    "poverty_percent": 8.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_631", 
+    "geo": "fsm", 
+    "poverty_percent": 15.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_632", 
+    "geo": "gab", 
+    "poverty_percent": 8.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_633", 
+    "geo": "gab", 
+    "poverty_percent": 3.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_634", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1969
+  }, 
+  {
+    "_id": "doc_635", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1974
+  }, 
+  {
+    "_id": "doc_636", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1979
+  }, 
+  {
+    "_id": "doc_637", 
+    "geo": "gbr", 
+    "poverty_percent": 0.7, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_638", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_639", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_640", 
+    "geo": "gbr", 
+    "poverty_percent": 1.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_641", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_642", 
+    "geo": "gbr", 
+    "poverty_percent": 0.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_643", 
+    "geo": "gbr", 
+    "poverty_percent": 0.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_644", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_645", 
+    "geo": "gbr", 
+    "poverty_percent": 0.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_646", 
+    "geo": "gbr", 
+    "poverty_percent": 0.3, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_647", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_648", 
+    "geo": "gbr", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_649", 
+    "geo": "gbr", 
+    "poverty_percent": 0.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_650", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_651", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_652", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_653", 
+    "geo": "gbr", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_654", 
+    "geo": "gbr", 
+    "poverty_percent": 0.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_655", 
+    "geo": "geo", 
+    "poverty_percent": 5.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_656", 
+    "geo": "geo", 
+    "poverty_percent": 15.9, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_657", 
+    "geo": "geo", 
+    "poverty_percent": 14.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_658", 
+    "geo": "geo", 
+    "poverty_percent": 18.5, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_659", 
+    "geo": "geo", 
+    "poverty_percent": 19.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_660", 
+    "geo": "geo", 
+    "poverty_percent": 19.0, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_661", 
+    "geo": "geo", 
+    "poverty_percent": 10.3, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_662", 
+    "geo": "geo", 
+    "poverty_percent": 10.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_663", 
+    "geo": "geo", 
+    "poverty_percent": 9.9, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_664", 
+    "geo": "geo", 
+    "poverty_percent": 10.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_665", 
+    "geo": "geo", 
+    "poverty_percent": 10.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_666", 
+    "geo": "geo", 
+    "poverty_percent": 11.6, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_667", 
+    "geo": "geo", 
+    "poverty_percent": 10.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_668", 
+    "geo": "geo", 
+    "poverty_percent": 10.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_669", 
+    "geo": "geo", 
+    "poverty_percent": 12.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_670", 
+    "geo": "geo", 
+    "poverty_percent": 11.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_671", 
+    "geo": "geo", 
+    "poverty_percent": 8.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_672", 
+    "geo": "geo", 
+    "poverty_percent": 6.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_673", 
+    "geo": "geo", 
+    "poverty_percent": 4.9, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_674", 
+    "geo": "geo", 
+    "poverty_percent": 3.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_675", 
+    "geo": "geo", 
+    "poverty_percent": 3.8, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_676", 
+    "geo": "geo", 
+    "poverty_percent": 5.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_677", 
+    "geo": "geo", 
+    "poverty_percent": 4.5, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_678", 
+    "geo": "gha", 
+    "poverty_percent": 41.8, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_679", 
+    "geo": "gha", 
+    "poverty_percent": 41.6, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_680", 
+    "geo": "gha", 
+    "poverty_percent": 49.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_681", 
+    "geo": "gha", 
+    "poverty_percent": 35.1, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_682", 
+    "geo": "gha", 
+    "poverty_percent": 24.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_683", 
+    "geo": "gha", 
+    "poverty_percent": 11.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_684", 
+    "geo": "gha", 
+    "poverty_percent": 13.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_685", 
+    "geo": "gin", 
+    "poverty_percent": 91.8, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_686", 
+    "geo": "gin", 
+    "poverty_percent": 49.8, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_687", 
+    "geo": "gin", 
+    "poverty_percent": 63.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_688", 
+    "geo": "gin", 
+    "poverty_percent": 60.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_689", 
+    "geo": "gin", 
+    "poverty_percent": 36.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_690", 
+    "geo": "gmb", 
+    "poverty_percent": 70.8, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_691", 
+    "geo": "gmb", 
+    "poverty_percent": 46.1, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_692", 
+    "geo": "gmb", 
+    "poverty_percent": 25.4, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_693", 
+    "geo": "gmb", 
+    "poverty_percent": 10.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_694", 
+    "geo": "gnb", 
+    "poverty_percent": 44.3, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_695", 
+    "geo": "gnb", 
+    "poverty_percent": 66.6, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_696", 
+    "geo": "gnb", 
+    "poverty_percent": 56.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_697", 
+    "geo": "gnb", 
+    "poverty_percent": 68.4, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_698", 
+    "geo": "grc", 
+    "poverty_percent": 1.7, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_699", 
+    "geo": "grc", 
+    "poverty_percent": 0.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_700", 
+    "geo": "grc", 
+    "poverty_percent": 0.5, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_701", 
+    "geo": "grc", 
+    "poverty_percent": 0.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_702", 
+    "geo": "grc", 
+    "poverty_percent": 0.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_703", 
+    "geo": "grc", 
+    "poverty_percent": 0.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_704", 
+    "geo": "grc", 
+    "poverty_percent": 0.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_705", 
+    "geo": "grc", 
+    "poverty_percent": 0.3, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_706", 
+    "geo": "grc", 
+    "poverty_percent": 0.6, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_707", 
+    "geo": "grc", 
+    "poverty_percent": 1.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_708", 
+    "geo": "grc", 
+    "poverty_percent": 1.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_709", 
+    "geo": "grc", 
+    "poverty_percent": 1.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_710", 
+    "geo": "grc", 
+    "poverty_percent": 1.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_711", 
+    "geo": "grc", 
+    "poverty_percent": 1.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_712", 
+    "geo": "grc", 
+    "poverty_percent": 1.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_713", 
+    "geo": "grc", 
+    "poverty_percent": 1.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_714", 
+    "geo": "grc", 
+    "poverty_percent": 0.9, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_715", 
+    "geo": "gtm", 
+    "poverty_percent": 48.8, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_716", 
+    "geo": "gtm", 
+    "poverty_percent": 36.3, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_717", 
+    "geo": "gtm", 
+    "poverty_percent": 13.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_718", 
+    "geo": "gtm", 
+    "poverty_percent": 9.3, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_719", 
+    "geo": "gtm", 
+    "poverty_percent": 11.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_720", 
+    "geo": "gtm", 
+    "poverty_percent": 8.8, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_721", 
+    "geo": "guy", 
+    "poverty_percent": 28.9, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_722", 
+    "geo": "guy", 
+    "poverty_percent": 11.7, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_723", 
+    "geo": "hnd", 
+    "poverty_percent": 42.9, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_724", 
+    "geo": "hnd", 
+    "poverty_percent": 45.0, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_725", 
+    "geo": "hnd", 
+    "poverty_percent": 34.1, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_726", 
+    "geo": "hnd", 
+    "poverty_percent": 29.2, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_727", 
+    "geo": "hnd", 
+    "poverty_percent": 24.3, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_728", 
+    "geo": "hnd", 
+    "poverty_percent": 27.0, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_729", 
+    "geo": "hnd", 
+    "poverty_percent": 28.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_730", 
+    "geo": "hnd", 
+    "poverty_percent": 31.4, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_731", 
+    "geo": "hnd", 
+    "poverty_percent": 21.8, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_732", 
+    "geo": "hnd", 
+    "poverty_percent": 26.6, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_733", 
+    "geo": "hnd", 
+    "poverty_percent": 26.8, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_734", 
+    "geo": "hnd", 
+    "poverty_percent": 22.0, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_735", 
+    "geo": "hnd", 
+    "poverty_percent": 23.9, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_736", 
+    "geo": "hnd", 
+    "poverty_percent": 28.5, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_737", 
+    "geo": "hnd", 
+    "poverty_percent": 27.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_738", 
+    "geo": "hnd", 
+    "poverty_percent": 27.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_739", 
+    "geo": "hnd", 
+    "poverty_percent": 23.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_740", 
+    "geo": "hnd", 
+    "poverty_percent": 17.6, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_741", 
+    "geo": "hnd", 
+    "poverty_percent": 16.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_742", 
+    "geo": "hnd", 
+    "poverty_percent": 14.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_743", 
+    "geo": "hnd", 
+    "poverty_percent": 15.6, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_744", 
+    "geo": "hnd", 
+    "poverty_percent": 17.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_745", 
+    "geo": "hnd", 
+    "poverty_percent": 20.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_746", 
+    "geo": "hnd", 
+    "poverty_percent": 17.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_747", 
+    "geo": "hnd", 
+    "poverty_percent": 16.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_748", 
+    "geo": "hnd", 
+    "poverty_percent": 16.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_749", 
+    "geo": "hnd", 
+    "poverty_percent": 18.4, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_750", 
+    "geo": "hnd", 
+    "poverty_percent": 17.6, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_751", 
+    "geo": "hnd", 
+    "poverty_percent": 16.9, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_752", 
+    "geo": "hrv", 
+    "poverty_percent": 0.9, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_753", 
+    "geo": "hrv", 
+    "poverty_percent": 1.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_754", 
+    "geo": "hrv", 
+    "poverty_percent": 0.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_755", 
+    "geo": "hrv", 
+    "poverty_percent": 0.8, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_756", 
+    "geo": "hrv", 
+    "poverty_percent": 0.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_757", 
+    "geo": "hrv", 
+    "poverty_percent": 1.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_758", 
+    "geo": "hrv", 
+    "poverty_percent": 0.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_759", 
+    "geo": "hrv", 
+    "poverty_percent": 0.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_760", 
+    "geo": "hrv", 
+    "poverty_percent": 0.5, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_761", 
+    "geo": "hti", 
+    "poverty_percent": 24.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_762", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_763", 
+    "geo": "hun", 
+    "poverty_percent": 0.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_764", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_765", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_766", 
+    "geo": "hun", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_767", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_768", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_769", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_770", 
+    "geo": "hun", 
+    "poverty_percent": 0.3, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_771", 
+    "geo": "hun", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_772", 
+    "geo": "hun", 
+    "poverty_percent": 0.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_773", 
+    "geo": "hun", 
+    "poverty_percent": 0.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_774", 
+    "geo": "hun", 
+    "poverty_percent": 1.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_775", 
+    "geo": "hun", 
+    "poverty_percent": 0.6, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_776", 
+    "geo": "idn", 
+    "poverty_percent": 68.5, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_777", 
+    "geo": "idn", 
+    "poverty_percent": 68.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_778", 
+    "geo": "idn", 
+    "poverty_percent": 54.9, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_779", 
+    "geo": "idn", 
+    "poverty_percent": 54.8, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_780", 
+    "geo": "idn", 
+    "poverty_percent": 43.6, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_781", 
+    "geo": "idn", 
+    "poverty_percent": 63.2, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_782", 
+    "geo": "idn", 
+    "poverty_percent": 37.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_783", 
+    "geo": "idn", 
+    "poverty_percent": 34.9, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_784", 
+    "geo": "idn", 
+    "poverty_percent": 31.2, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_785", 
+    "geo": "idn", 
+    "poverty_percent": 19.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_786", 
+    "geo": "idn", 
+    "poverty_percent": 19.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_787", 
+    "geo": "idn", 
+    "poverty_percent": 21.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_788", 
+    "geo": "idn", 
+    "poverty_percent": 18.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_789", 
+    "geo": "idn", 
+    "poverty_percent": 23.9, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_790", 
+    "geo": "idn", 
+    "poverty_percent": 19.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_791", 
+    "geo": "idn", 
+    "poverty_percent": 19.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_792", 
+    "geo": "idn", 
+    "poverty_percent": 15.5, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_793", 
+    "geo": "idn", 
+    "poverty_percent": 13.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_794", 
+    "geo": "idn", 
+    "poverty_percent": 10.9, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_795", 
+    "geo": "idn", 
+    "poverty_percent": 9.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_796", 
+    "geo": "idn", 
+    "poverty_percent": 7.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_797", 
+    "geo": "idn", 
+    "poverty_percent": 6.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_798", 
+    "geo": "idn", 
+    "poverty_percent": 5.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_799", 
+    "geo": "idn", 
+    "poverty_percent": 5.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_800", 
+    "geo": "idn", 
+    "poverty_percent": 4.5, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_801", 
+    "geo": "idn", 
+    "poverty_percent": 3.6, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_802", 
+    "geo": "ind", 
+    "poverty_percent": 63.1, 
+    "time": 1977
+  }, 
+  {
+    "_id": "doc_803", 
+    "geo": "ind", 
+    "poverty_percent": 56.4, 
+    "time": 1983
+  }, 
+  {
+    "_id": "doc_804", 
+    "geo": "ind", 
+    "poverty_percent": 50.6, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_805", 
+    "geo": "ind", 
+    "poverty_percent": 47.6, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_806", 
+    "geo": "ind", 
+    "poverty_percent": 39.9, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_807", 
+    "geo": "ind", 
+    "poverty_percent": 32.8, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_808", 
+    "geo": "ind", 
+    "poverty_percent": 22.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_809", 
+    "geo": "irl", 
+    "poverty_percent": 0.7, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_810", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_811", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_812", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_813", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_814", 
+    "geo": "irl", 
+    "poverty_percent": 0.1, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_815", 
+    "geo": "irl", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_816", 
+    "geo": "irl", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_817", 
+    "geo": "irl", 
+    "poverty_percent": 0.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_818", 
+    "geo": "irl", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_819", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_820", 
+    "geo": "irl", 
+    "poverty_percent": 0.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_821", 
+    "geo": "irl", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_822", 
+    "geo": "irl", 
+    "poverty_percent": 0.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_823", 
+    "geo": "irl", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_824", 
+    "geo": "irl", 
+    "poverty_percent": 0.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_825", 
+    "geo": "irl", 
+    "poverty_percent": 0.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_826", 
+    "geo": "irl", 
+    "poverty_percent": 0.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_827", 
+    "geo": "irl", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_828", 
+    "geo": "irn", 
+    "poverty_percent": 8.0, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_829", 
+    "geo": "irn", 
+    "poverty_percent": 6.7, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_830", 
+    "geo": "irn", 
+    "poverty_percent": 4.0, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_831", 
+    "geo": "irn", 
+    "poverty_percent": 3.4, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_832", 
+    "geo": "irn", 
+    "poverty_percent": 0.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_833", 
+    "geo": "irn", 
+    "poverty_percent": 0.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_834", 
+    "geo": "irn", 
+    "poverty_percent": 1.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_835", 
+    "geo": "irn", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_836", 
+    "geo": "irn", 
+    "poverty_percent": 0.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_837", 
+    "geo": "irn", 
+    "poverty_percent": 0.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_838", 
+    "geo": "irn", 
+    "poverty_percent": 0.4, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_839", 
+    "geo": "irn", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_840", 
+    "geo": "irq", 
+    "poverty_percent": 1.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_841", 
+    "geo": "irq", 
+    "poverty_percent": 1.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_842", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_843", 
+    "geo": "isl", 
+    "poverty_percent": 0.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_844", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_845", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_846", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_847", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_848", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_849", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_850", 
+    "geo": "isl", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_851", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_852", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_853", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_854", 
+    "geo": "isl", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_855", 
+    "geo": "isr", 
+    "poverty_percent": 0.0, 
+    "time": 1979
+  }, 
+  {
+    "_id": "doc_856", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_857", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_858", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_859", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_860", 
+    "geo": "isr", 
+    "poverty_percent": 0.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_861", 
+    "geo": "isr", 
+    "poverty_percent": 0.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_862", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_863", 
+    "geo": "isr", 
+    "poverty_percent": 0.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_864", 
+    "geo": "isr", 
+    "poverty_percent": 0.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_865", 
+    "geo": "isr", 
+    "poverty_percent": 0.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_866", 
+    "geo": "ita", 
+    "poverty_percent": 0.2, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_867", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_868", 
+    "geo": "ita", 
+    "poverty_percent": 0.0, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_869", 
+    "geo": "ita", 
+    "poverty_percent": 0.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_870", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_871", 
+    "geo": "ita", 
+    "poverty_percent": 0.7, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_872", 
+    "geo": "ita", 
+    "poverty_percent": 1.7, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_873", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_874", 
+    "geo": "ita", 
+    "poverty_percent": 0.8, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_875", 
+    "geo": "ita", 
+    "poverty_percent": 0.6, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_876", 
+    "geo": "ita", 
+    "poverty_percent": 0.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_877", 
+    "geo": "ita", 
+    "poverty_percent": 0.7, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_878", 
+    "geo": "ita", 
+    "poverty_percent": 0.7, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_879", 
+    "geo": "ita", 
+    "poverty_percent": 0.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_880", 
+    "geo": "ita", 
+    "poverty_percent": 0.9, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_881", 
+    "geo": "ita", 
+    "poverty_percent": 1.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_882", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_883", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_884", 
+    "geo": "ita", 
+    "poverty_percent": 1.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_885", 
+    "geo": "ita", 
+    "poverty_percent": 1.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_886", 
+    "geo": "ita", 
+    "poverty_percent": 1.9, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_887", 
+    "geo": "ita", 
+    "poverty_percent": 1.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_888", 
+    "geo": "ita", 
+    "poverty_percent": 1.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_889", 
+    "geo": "jam", 
+    "poverty_percent": 6.1, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_890", 
+    "geo": "jam", 
+    "poverty_percent": 4.6, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_891", 
+    "geo": "jam", 
+    "poverty_percent": 9.7, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_892", 
+    "geo": "jam", 
+    "poverty_percent": 3.4, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_893", 
+    "geo": "jam", 
+    "poverty_percent": 2.6, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_894", 
+    "geo": "jam", 
+    "poverty_percent": 2.7, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_895", 
+    "geo": "jam", 
+    "poverty_percent": 1.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_896", 
+    "geo": "jor", 
+    "poverty_percent": 0.0, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_897", 
+    "geo": "jor", 
+    "poverty_percent": 2.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_898", 
+    "geo": "jor", 
+    "poverty_percent": 1.5, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_899", 
+    "geo": "jor", 
+    "poverty_percent": 1.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_900", 
+    "geo": "jor", 
+    "poverty_percent": 0.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_901", 
+    "geo": "jor", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_902", 
+    "geo": "jor", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_903", 
+    "geo": "jpn", 
+    "poverty_percent": 0.5, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_904", 
+    "geo": "jpn", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_905", 
+    "geo": "jpn", 
+    "poverty_percent": 0.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_906", 
+    "geo": "kaz", 
+    "poverty_percent": 5.9, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_907", 
+    "geo": "kaz", 
+    "poverty_percent": 8.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_908", 
+    "geo": "kaz", 
+    "poverty_percent": 5.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_909", 
+    "geo": "kaz", 
+    "poverty_percent": 3.7, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_910", 
+    "geo": "kaz", 
+    "poverty_percent": 1.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_911", 
+    "geo": "kaz", 
+    "poverty_percent": 5.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_912", 
+    "geo": "kaz", 
+    "poverty_percent": 0.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_913", 
+    "geo": "kaz", 
+    "poverty_percent": 0.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_914", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_915", 
+    "geo": "kaz", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_916", 
+    "geo": "kaz", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_917", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_918", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_919", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_920", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_921", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_922", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_923", 
+    "geo": "kaz", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_924", 
+    "geo": "ken", 
+    "poverty_percent": 31.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_925", 
+    "geo": "ken", 
+    "poverty_percent": 31.7, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_926", 
+    "geo": "ken", 
+    "poverty_percent": 32.2, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_927", 
+    "geo": "ken", 
+    "poverty_percent": 43.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_928", 
+    "geo": "ken", 
+    "poverty_percent": 37.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_929", 
+    "geo": "kgz", 
+    "poverty_percent": 27.3, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_930", 
+    "geo": "kgz", 
+    "poverty_percent": 35.1, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_931", 
+    "geo": "kgz", 
+    "poverty_percent": 31.4, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_932", 
+    "geo": "kgz", 
+    "poverty_percent": 28.3, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_933", 
+    "geo": "kgz", 
+    "poverty_percent": 22.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_934", 
+    "geo": "kgz", 
+    "poverty_percent": 9.9, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_935", 
+    "geo": "kgz", 
+    "poverty_percent": 12.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_936", 
+    "geo": "kgz", 
+    "poverty_percent": 7.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_937", 
+    "geo": "kgz", 
+    "poverty_percent": 7.9, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_938", 
+    "geo": "kgz", 
+    "poverty_percent": 2.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_939", 
+    "geo": "kgz", 
+    "poverty_percent": 1.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_940", 
+    "geo": "kgz", 
+    "poverty_percent": 2.8, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_941", 
+    "geo": "kgz", 
+    "poverty_percent": 0.9, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_942", 
+    "geo": "kgz", 
+    "poverty_percent": 2.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_943", 
+    "geo": "kgz", 
+    "poverty_percent": 2.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_944", 
+    "geo": "kgz", 
+    "poverty_percent": 0.9, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_945", 
+    "geo": "kgz", 
+    "poverty_percent": 1.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_946", 
+    "geo": "kgz", 
+    "poverty_percent": 1.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_947", 
+    "geo": "kgz", 
+    "poverty_percent": 1.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_948", 
+    "geo": "kgz", 
+    "poverty_percent": 0.6, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_949", 
+    "geo": "kir", 
+    "poverty_percent": 12.9, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_950", 
+    "geo": "kor", 
+    "poverty_percent": 0.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_951", 
+    "geo": "kor", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_952", 
+    "geo": "kor", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_953", 
+    "geo": "kor", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_954", 
+    "geo": "kos", 
+    "poverty_percent": 1.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_955", 
+    "geo": "kos", 
+    "poverty_percent": 3.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_956", 
+    "geo": "kos", 
+    "poverty_percent": 3.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_957", 
+    "geo": "kos", 
+    "poverty_percent": 3.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_958", 
+    "geo": "kos", 
+    "poverty_percent": 2.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_959", 
+    "geo": "kos", 
+    "poverty_percent": 1.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_960", 
+    "geo": "kos", 
+    "poverty_percent": 0.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_961", 
+    "geo": "kos", 
+    "poverty_percent": 0.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_962", 
+    "geo": "kos", 
+    "poverty_percent": 1.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_963", 
+    "geo": "kos", 
+    "poverty_percent": 0.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_964", 
+    "geo": "kos", 
+    "poverty_percent": 0.8, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_965", 
+    "geo": "kos", 
+    "poverty_percent": 0.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_966", 
+    "geo": "lao", 
+    "poverty_percent": 30.3, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_967", 
+    "geo": "lao", 
+    "poverty_percent": 50.4, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_968", 
+    "geo": "lao", 
+    "poverty_percent": 31.8, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_969", 
+    "geo": "lao", 
+    "poverty_percent": 25.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_970", 
+    "geo": "lao", 
+    "poverty_percent": 21.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_971", 
+    "geo": "lbn", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_972", 
+    "geo": "lbr", 
+    "poverty_percent": 71.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_973", 
+    "geo": "lbr", 
+    "poverty_percent": 41.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_974", 
+    "geo": "lbr", 
+    "poverty_percent": 44.4, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_975", 
+    "geo": "lca", 
+    "poverty_percent": 34.7, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_976", 
+    "geo": "lca", 
+    "poverty_percent": 4.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_977", 
+    "geo": "lka", 
+    "poverty_percent": 14.1, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_978", 
+    "geo": "lka", 
+    "poverty_percent": 9.3, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_979", 
+    "geo": "lka", 
+    "poverty_percent": 9.5, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_980", 
+    "geo": "lka", 
+    "poverty_percent": 8.8, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_981", 
+    "geo": "lka", 
+    "poverty_percent": 4.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_982", 
+    "geo": "lka", 
+    "poverty_percent": 2.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_983", 
+    "geo": "lka", 
+    "poverty_percent": 2.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_984", 
+    "geo": "lka", 
+    "poverty_percent": 0.9, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_985", 
+    "geo": "lso", 
+    "poverty_percent": 50.0, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_986", 
+    "geo": "lso", 
+    "poverty_percent": 50.6, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_987", 
+    "geo": "lso", 
+    "poverty_percent": 61.9, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_988", 
+    "geo": "lso", 
+    "poverty_percent": 27.8, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_989", 
+    "geo": "ltu", 
+    "poverty_percent": 2.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_990", 
+    "geo": "ltu", 
+    "poverty_percent": 1.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_991", 
+    "geo": "ltu", 
+    "poverty_percent": 1.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_992", 
+    "geo": "ltu", 
+    "poverty_percent": 1.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_993", 
+    "geo": "ltu", 
+    "poverty_percent": 1.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_994", 
+    "geo": "ltu", 
+    "poverty_percent": 2.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_995", 
+    "geo": "ltu", 
+    "poverty_percent": 1.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_996", 
+    "geo": "ltu", 
+    "poverty_percent": 0.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_997", 
+    "geo": "ltu", 
+    "poverty_percent": 0.9, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_998", 
+    "geo": "ltu", 
+    "poverty_percent": 0.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_999", 
+    "geo": "ltu", 
+    "poverty_percent": 1.3, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1000", 
+    "geo": "ltu", 
+    "poverty_percent": 0.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1001", 
+    "geo": "ltu", 
+    "poverty_percent": 1.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1002", 
+    "geo": "ltu", 
+    "poverty_percent": 1.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1003", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_1004", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1005", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1006", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1007", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1008", 
+    "geo": "lux", 
+    "poverty_percent": 0.1, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1009", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1010", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1011", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1012", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1013", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1014", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1015", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1016", 
+    "geo": "lux", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1017", 
+    "geo": "lux", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1018", 
+    "geo": "lux", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1019", 
+    "geo": "lux", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1020", 
+    "geo": "lux", 
+    "poverty_percent": 0.3, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1021", 
+    "geo": "lux", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1022", 
+    "geo": "lux", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1023", 
+    "geo": "lva", 
+    "poverty_percent": 2.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1024", 
+    "geo": "lva", 
+    "poverty_percent": 2.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1025", 
+    "geo": "lva", 
+    "poverty_percent": 1.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1026", 
+    "geo": "lva", 
+    "poverty_percent": 0.6, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1027", 
+    "geo": "lva", 
+    "poverty_percent": 1.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1028", 
+    "geo": "lva", 
+    "poverty_percent": 1.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1029", 
+    "geo": "lva", 
+    "poverty_percent": 1.6, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1030", 
+    "geo": "lva", 
+    "poverty_percent": 1.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1031", 
+    "geo": "lva", 
+    "poverty_percent": 1.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1032", 
+    "geo": "lva", 
+    "poverty_percent": 1.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1033", 
+    "geo": "lva", 
+    "poverty_percent": 0.8, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1034", 
+    "geo": "lva", 
+    "poverty_percent": 0.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1035", 
+    "geo": "lva", 
+    "poverty_percent": 0.6, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1036", 
+    "geo": "lva", 
+    "poverty_percent": 0.8, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1037", 
+    "geo": "mar", 
+    "poverty_percent": 10.6, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_1038", 
+    "geo": "mar", 
+    "poverty_percent": 2.6, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1039", 
+    "geo": "mar", 
+    "poverty_percent": 7.1, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1040", 
+    "geo": "mar", 
+    "poverty_percent": 5.8, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1041", 
+    "geo": "mar", 
+    "poverty_percent": 3.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1042", 
+    "geo": "mar", 
+    "poverty_percent": 0.9, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1043", 
+    "geo": "mda", 
+    "poverty_percent": 15.4, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1044", 
+    "geo": "mda", 
+    "poverty_percent": 26.9, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1045", 
+    "geo": "mda", 
+    "poverty_percent": 38.0, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1046", 
+    "geo": "mda", 
+    "poverty_percent": 35.1, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1047", 
+    "geo": "mda", 
+    "poverty_percent": 26.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1048", 
+    "geo": "mda", 
+    "poverty_percent": 16.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1049", 
+    "geo": "mda", 
+    "poverty_percent": 7.4, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1050", 
+    "geo": "mda", 
+    "poverty_percent": 8.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1051", 
+    "geo": "mda", 
+    "poverty_percent": 13.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1052", 
+    "geo": "mda", 
+    "poverty_percent": 2.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1053", 
+    "geo": "mda", 
+    "poverty_percent": 1.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1054", 
+    "geo": "mda", 
+    "poverty_percent": 1.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1055", 
+    "geo": "mda", 
+    "poverty_percent": 1.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1056", 
+    "geo": "mda", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1057", 
+    "geo": "mda", 
+    "poverty_percent": 0.3, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1058", 
+    "geo": "mda", 
+    "poverty_percent": 0.3, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1059", 
+    "geo": "mda", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1060", 
+    "geo": "mda", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1061", 
+    "geo": "mda", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1062", 
+    "geo": "mda", 
+    "poverty_percent": 0.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1063", 
+    "geo": "mda", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1064", 
+    "geo": "mda", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1065", 
+    "geo": "mdg", 
+    "poverty_percent": 45.8, 
+    "time": 1980
+  }, 
+  {
+    "_id": "doc_1066", 
+    "geo": "mdg", 
+    "poverty_percent": 69.9, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1067", 
+    "geo": "mdg", 
+    "poverty_percent": 66.4, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1068", 
+    "geo": "mdg", 
+    "poverty_percent": 63.9, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1069", 
+    "geo": "mdg", 
+    "poverty_percent": 68.4, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1070", 
+    "geo": "mdg", 
+    "poverty_percent": 71.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1071", 
+    "geo": "mdg", 
+    "poverty_percent": 78.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1072", 
+    "geo": "mdg", 
+    "poverty_percent": 77.4, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1073", 
+    "geo": "mdv", 
+    "poverty_percent": 6.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1074", 
+    "geo": "mdv", 
+    "poverty_percent": 3.5, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1075", 
+    "geo": "mdv", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1076", 
+    "geo": "mex", 
+    "poverty_percent": 7.0, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1077", 
+    "geo": "mex", 
+    "poverty_percent": 9.4, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1078", 
+    "geo": "mex", 
+    "poverty_percent": 9.8, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1079", 
+    "geo": "mex", 
+    "poverty_percent": 20.6, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1080", 
+    "geo": "mex", 
+    "poverty_percent": 15.8, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1081", 
+    "geo": "mex", 
+    "poverty_percent": 9.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1082", 
+    "geo": "mex", 
+    "poverty_percent": 6.6, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1083", 
+    "geo": "mex", 
+    "poverty_percent": 6.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1084", 
+    "geo": "mex", 
+    "poverty_percent": 6.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1085", 
+    "geo": "mex", 
+    "poverty_percent": 4.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1086", 
+    "geo": "mex", 
+    "poverty_percent": 5.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1087", 
+    "geo": "mex", 
+    "poverty_percent": 4.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1088", 
+    "geo": "mex", 
+    "poverty_percent": 3.8, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1089", 
+    "geo": "mex", 
+    "poverty_percent": 3.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1090", 
+    "geo": "mex", 
+    "poverty_percent": 2.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1091", 
+    "geo": "mex", 
+    "poverty_percent": 1.7, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1092", 
+    "geo": "mkd", 
+    "poverty_percent": 9.8, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1093", 
+    "geo": "mkd", 
+    "poverty_percent": 10.4, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1094", 
+    "geo": "mkd", 
+    "poverty_percent": 9.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1095", 
+    "geo": "mkd", 
+    "poverty_percent": 6.9, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1096", 
+    "geo": "mkd", 
+    "poverty_percent": 5.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1097", 
+    "geo": "mkd", 
+    "poverty_percent": 4.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1098", 
+    "geo": "mkd", 
+    "poverty_percent": 5.5, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1099", 
+    "geo": "mkd", 
+    "poverty_percent": 4.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1100", 
+    "geo": "mkd", 
+    "poverty_percent": 4.6, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1101", 
+    "geo": "mli", 
+    "poverty_percent": 85.3, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1102", 
+    "geo": "mli", 
+    "poverty_percent": 58.8, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1103", 
+    "geo": "mli", 
+    "poverty_percent": 51.9, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1104", 
+    "geo": "mli", 
+    "poverty_percent": 50.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1105", 
+    "geo": "mlt", 
+    "poverty_percent": 0.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1106", 
+    "geo": "mlt", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1107", 
+    "geo": "mlt", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1108", 
+    "geo": "mlt", 
+    "poverty_percent": 0.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1109", 
+    "geo": "mlt", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1110", 
+    "geo": "mlt", 
+    "poverty_percent": 0.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1111", 
+    "geo": "mlt", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1112", 
+    "geo": "mlt", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1113", 
+    "geo": "mlt", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1114", 
+    "geo": "mlt", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1115", 
+    "geo": "mlt", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1116", 
+    "geo": "mlt", 
+    "poverty_percent": 0.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1117", 
+    "geo": "mmr", 
+    "poverty_percent": 4.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1118", 
+    "geo": "mmr", 
+    "poverty_percent": 1.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1119", 
+    "geo": "mne", 
+    "poverty_percent": 3.4, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1120", 
+    "geo": "mne", 
+    "poverty_percent": 3.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1121", 
+    "geo": "mne", 
+    "poverty_percent": 1.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1122", 
+    "geo": "mne", 
+    "poverty_percent": 1.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1123", 
+    "geo": "mng", 
+    "poverty_percent": 12.1, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1124", 
+    "geo": "mng", 
+    "poverty_percent": 24.4, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1125", 
+    "geo": "mng", 
+    "poverty_percent": 9.3, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1126", 
+    "geo": "mng", 
+    "poverty_percent": 1.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1127", 
+    "geo": "mng", 
+    "poverty_percent": 0.7, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1128", 
+    "geo": "mng", 
+    "poverty_percent": 0.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1129", 
+    "geo": "mng", 
+    "poverty_percent": 0.4, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1130", 
+    "geo": "mng", 
+    "poverty_percent": 0.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1131", 
+    "geo": "mng", 
+    "poverty_percent": 0.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1132", 
+    "geo": "mng", 
+    "poverty_percent": 0.5, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1133", 
+    "geo": "moz", 
+    "poverty_percent": 82.1, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1134", 
+    "geo": "moz", 
+    "poverty_percent": 79.9, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1135", 
+    "geo": "moz", 
+    "poverty_percent": 69.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1136", 
+    "geo": "moz", 
+    "poverty_percent": 63.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1137", 
+    "geo": "mrt", 
+    "poverty_percent": 40.0, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1138", 
+    "geo": "mrt", 
+    "poverty_percent": 41.1, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1139", 
+    "geo": "mrt", 
+    "poverty_percent": 20.6, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1140", 
+    "geo": "mrt", 
+    "poverty_percent": 19.6, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1141", 
+    "geo": "mrt", 
+    "poverty_percent": 14.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1142", 
+    "geo": "mrt", 
+    "poverty_percent": 10.8, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1143", 
+    "geo": "mrt", 
+    "poverty_percent": 6.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1144", 
+    "geo": "mus", 
+    "poverty_percent": 0.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1145", 
+    "geo": "mus", 
+    "poverty_percent": 0.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1146", 
+    "geo": "mus", 
+    "poverty_percent": 0.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1147", 
+    "geo": "mwi", 
+    "poverty_percent": 63.8, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1148", 
+    "geo": "mwi", 
+    "poverty_percent": 73.9, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1149", 
+    "geo": "mwi", 
+    "poverty_percent": 72.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1150", 
+    "geo": "mwi", 
+    "poverty_percent": 70.8, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1151", 
+    "geo": "mys", 
+    "poverty_percent": 2.9, 
+    "time": 1984
+  }, 
+  {
+    "_id": "doc_1152", 
+    "geo": "mys", 
+    "poverty_percent": 2.1, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1153", 
+    "geo": "mys", 
+    "poverty_percent": 1.6, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1154", 
+    "geo": "mys", 
+    "poverty_percent": 1.3, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1155", 
+    "geo": "mys", 
+    "poverty_percent": 1.8, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1156", 
+    "geo": "mys", 
+    "poverty_percent": 0.4, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1157", 
+    "geo": "mys", 
+    "poverty_percent": 0.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1158", 
+    "geo": "mys", 
+    "poverty_percent": 0.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1159", 
+    "geo": "mys", 
+    "poverty_percent": 0.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1160", 
+    "geo": "mys", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1161", 
+    "geo": "mys", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1162", 
+    "geo": "mys", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1163", 
+    "geo": "nam", 
+    "poverty_percent": 32.6, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1164", 
+    "geo": "nam", 
+    "poverty_percent": 23.5, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1165", 
+    "geo": "nam", 
+    "poverty_percent": 13.8, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1166", 
+    "geo": "ner", 
+    "poverty_percent": 78.5, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1167", 
+    "geo": "ner", 
+    "poverty_percent": 81.6, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1168", 
+    "geo": "ner", 
+    "poverty_percent": 75.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1169", 
+    "geo": "ner", 
+    "poverty_percent": 72.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1170", 
+    "geo": "ner", 
+    "poverty_percent": 50.6, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1171", 
+    "geo": "ner", 
+    "poverty_percent": 45.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1172", 
+    "geo": "nga", 
+    "poverty_percent": 56.0, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_1173", 
+    "geo": "nga", 
+    "poverty_percent": 58.9, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1174", 
+    "geo": "nga", 
+    "poverty_percent": 65.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1175", 
+    "geo": "nga", 
+    "poverty_percent": 56.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1176", 
+    "geo": "nga", 
+    "poverty_percent": 56.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1177", 
+    "geo": "nga", 
+    "poverty_percent": 39.1, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1178", 
+    "geo": "nic", 
+    "poverty_percent": 36.7, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1179", 
+    "geo": "nic", 
+    "poverty_percent": 24.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1180", 
+    "geo": "nic", 
+    "poverty_percent": 16.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1181", 
+    "geo": "nic", 
+    "poverty_percent": 8.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1182", 
+    "geo": "nic", 
+    "poverty_percent": 7.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1183", 
+    "geo": "nic", 
+    "poverty_percent": 3.4, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1184", 
+    "geo": "nld", 
+    "poverty_percent": 0.5, 
+    "time": 1983
+  }, 
+  {
+    "_id": "doc_1185", 
+    "geo": "nld", 
+    "poverty_percent": 0.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1186", 
+    "geo": "nld", 
+    "poverty_percent": 1.0, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1187", 
+    "geo": "nld", 
+    "poverty_percent": 1.0, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1188", 
+    "geo": "nld", 
+    "poverty_percent": 0.2, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1189", 
+    "geo": "nld", 
+    "poverty_percent": 0.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1190", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1191", 
+    "geo": "nld", 
+    "poverty_percent": 0.0, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1192", 
+    "geo": "nld", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1193", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1194", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1195", 
+    "geo": "nld", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1196", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1197", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1198", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1199", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1200", 
+    "geo": "nld", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1201", 
+    "geo": "nld", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1202", 
+    "geo": "nld", 
+    "poverty_percent": 0.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1203", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 1979
+  }, 
+  {
+    "_id": "doc_1204", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_1205", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1206", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1207", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1208", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1209", 
+    "geo": "nor", 
+    "poverty_percent": 0.3, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1210", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1211", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1212", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1213", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1214", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1215", 
+    "geo": "nor", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1216", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1217", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1218", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1219", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1220", 
+    "geo": "nor", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1221", 
+    "geo": "nor", 
+    "poverty_percent": 0.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1222", 
+    "geo": "nor", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1223", 
+    "geo": "npl", 
+    "poverty_percent": 66.0, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1224", 
+    "geo": "npl", 
+    "poverty_percent": 49.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1225", 
+    "geo": "npl", 
+    "poverty_percent": 15.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1226", 
+    "geo": "pak", 
+    "poverty_percent": 62.4, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1227", 
+    "geo": "pak", 
+    "poverty_percent": 59.1, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1228", 
+    "geo": "pak", 
+    "poverty_percent": 16.2, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1229", 
+    "geo": "pak", 
+    "poverty_percent": 23.7, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1230", 
+    "geo": "pak", 
+    "poverty_percent": 28.9, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1231", 
+    "geo": "pak", 
+    "poverty_percent": 18.2, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1232", 
+    "geo": "pak", 
+    "poverty_percent": 16.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1233", 
+    "geo": "pak", 
+    "poverty_percent": 13.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1234", 
+    "geo": "pak", 
+    "poverty_percent": 8.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1235", 
+    "geo": "pak", 
+    "poverty_percent": 8.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1236", 
+    "geo": "pak", 
+    "poverty_percent": 6.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1237", 
+    "geo": "pak", 
+    "poverty_percent": 4.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1238", 
+    "geo": "pan", 
+    "poverty_percent": 8.1, 
+    "time": 1979
+  }, 
+  {
+    "_id": "doc_1239", 
+    "geo": "pan", 
+    "poverty_percent": 23.7, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1240", 
+    "geo": "pan", 
+    "poverty_percent": 21.8, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1241", 
+    "geo": "pan", 
+    "poverty_percent": 16.3, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1242", 
+    "geo": "pan", 
+    "poverty_percent": 15.0, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1243", 
+    "geo": "pan", 
+    "poverty_percent": 15.1, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1244", 
+    "geo": "pan", 
+    "poverty_percent": 13.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1245", 
+    "geo": "pan", 
+    "poverty_percent": 12.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1246", 
+    "geo": "pan", 
+    "poverty_percent": 15.5, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1247", 
+    "geo": "pan", 
+    "poverty_percent": 11.2, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1248", 
+    "geo": "pan", 
+    "poverty_percent": 11.1, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1249", 
+    "geo": "pan", 
+    "poverty_percent": 10.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1250", 
+    "geo": "pan", 
+    "poverty_percent": 9.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1251", 
+    "geo": "pan", 
+    "poverty_percent": 10.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1252", 
+    "geo": "pan", 
+    "poverty_percent": 7.8, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1253", 
+    "geo": "pan", 
+    "poverty_percent": 5.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1254", 
+    "geo": "pan", 
+    "poverty_percent": 3.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1255", 
+    "geo": "pan", 
+    "poverty_percent": 4.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1256", 
+    "geo": "pan", 
+    "poverty_percent": 3.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1257", 
+    "geo": "pan", 
+    "poverty_percent": 4.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1258", 
+    "geo": "pan", 
+    "poverty_percent": 2.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1259", 
+    "geo": "pan", 
+    "poverty_percent": 3.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1260", 
+    "geo": "pan", 
+    "poverty_percent": 2.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1261", 
+    "geo": "pan", 
+    "poverty_percent": 2.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1262", 
+    "geo": "pan", 
+    "poverty_percent": 2.5, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1263", 
+    "geo": "pan", 
+    "poverty_percent": 1.7, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1264", 
+    "geo": "per", 
+    "poverty_percent": 18.1, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1265", 
+    "geo": "per", 
+    "poverty_percent": 16.9, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1266", 
+    "geo": "per", 
+    "poverty_percent": 17.7, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1267", 
+    "geo": "per", 
+    "poverty_percent": 16.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1268", 
+    "geo": "per", 
+    "poverty_percent": 17.4, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1269", 
+    "geo": "per", 
+    "poverty_percent": 15.2, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1270", 
+    "geo": "per", 
+    "poverty_percent": 12.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1271", 
+    "geo": "per", 
+    "poverty_percent": 13.6, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1272", 
+    "geo": "per", 
+    "poverty_percent": 15.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1273", 
+    "geo": "per", 
+    "poverty_percent": 13.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1274", 
+    "geo": "per", 
+    "poverty_percent": 11.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1275", 
+    "geo": "per", 
+    "poverty_percent": 9.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1276", 
+    "geo": "per", 
+    "poverty_percent": 7.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1277", 
+    "geo": "per", 
+    "poverty_percent": 5.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1278", 
+    "geo": "per", 
+    "poverty_percent": 5.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1279", 
+    "geo": "per", 
+    "poverty_percent": 4.8, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1280", 
+    "geo": "per", 
+    "poverty_percent": 4.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1281", 
+    "geo": "per", 
+    "poverty_percent": 3.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1282", 
+    "geo": "per", 
+    "poverty_percent": 3.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1283", 
+    "geo": "per", 
+    "poverty_percent": 3.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1284", 
+    "geo": "per", 
+    "poverty_percent": 3.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1285", 
+    "geo": "per", 
+    "poverty_percent": 2.7, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1286", 
+    "geo": "phl", 
+    "poverty_percent": 13.7, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1287", 
+    "geo": "phl", 
+    "poverty_percent": 13.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1288", 
+    "geo": "phl", 
+    "poverty_percent": 14.4, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1289", 
+    "geo": "phl", 
+    "poverty_percent": 10.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1290", 
+    "geo": "phl", 
+    "poverty_percent": 10.4, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1291", 
+    "geo": "phl", 
+    "poverty_percent": 6.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1292", 
+    "geo": "png", 
+    "poverty_percent": 50.9, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1293", 
+    "geo": "png", 
+    "poverty_percent": 38.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1294", 
+    "geo": "pol", 
+    "poverty_percent": 2.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1295", 
+    "geo": "pol", 
+    "poverty_percent": 0.9, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1296", 
+    "geo": "pol", 
+    "poverty_percent": 0.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1297", 
+    "geo": "pol", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1298", 
+    "geo": "pol", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1299", 
+    "geo": "pol", 
+    "poverty_percent": 0.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1300", 
+    "geo": "pol", 
+    "poverty_percent": 0.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1301", 
+    "geo": "pol", 
+    "poverty_percent": 0.3, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1302", 
+    "geo": "pol", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1303", 
+    "geo": "pol", 
+    "poverty_percent": 0.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1304", 
+    "geo": "pol", 
+    "poverty_percent": 0.3, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1305", 
+    "geo": "pol", 
+    "poverty_percent": 0.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1306", 
+    "geo": "pol", 
+    "poverty_percent": 0.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1307", 
+    "geo": "pol", 
+    "poverty_percent": 0.3, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1308", 
+    "geo": "prt", 
+    "poverty_percent": 0.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1309", 
+    "geo": "prt", 
+    "poverty_percent": 0.5, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1310", 
+    "geo": "prt", 
+    "poverty_percent": 0.5, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1311", 
+    "geo": "prt", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1312", 
+    "geo": "prt", 
+    "poverty_percent": 0.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1313", 
+    "geo": "prt", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1314", 
+    "geo": "prt", 
+    "poverty_percent": 0.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1315", 
+    "geo": "prt", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1316", 
+    "geo": "prt", 
+    "poverty_percent": 0.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1317", 
+    "geo": "prt", 
+    "poverty_percent": 0.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1318", 
+    "geo": "prt", 
+    "poverty_percent": 0.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1319", 
+    "geo": "prt", 
+    "poverty_percent": 0.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1320", 
+    "geo": "prt", 
+    "poverty_percent": 0.5, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1321", 
+    "geo": "prt", 
+    "poverty_percent": 0.4, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1322", 
+    "geo": "prt", 
+    "poverty_percent": 0.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1323", 
+    "geo": "pry", 
+    "poverty_percent": 1.0, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1324", 
+    "geo": "pry", 
+    "poverty_percent": 11.9, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1325", 
+    "geo": "pry", 
+    "poverty_percent": 10.4, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1326", 
+    "geo": "pry", 
+    "poverty_percent": 9.9, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1327", 
+    "geo": "pry", 
+    "poverty_percent": 8.6, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1328", 
+    "geo": "pry", 
+    "poverty_percent": 12.8, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1329", 
+    "geo": "pry", 
+    "poverty_percent": 7.8, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1330", 
+    "geo": "pry", 
+    "poverty_percent": 5.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1331", 
+    "geo": "pry", 
+    "poverty_percent": 5.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1332", 
+    "geo": "pry", 
+    "poverty_percent": 7.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1333", 
+    "geo": "pry", 
+    "poverty_percent": 7.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1334", 
+    "geo": "pry", 
+    "poverty_percent": 3.9, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1335", 
+    "geo": "pry", 
+    "poverty_percent": 5.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1336", 
+    "geo": "pry", 
+    "poverty_percent": 5.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1337", 
+    "geo": "pry", 
+    "poverty_percent": 4.6, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1338", 
+    "geo": "pry", 
+    "poverty_percent": 3.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1339", 
+    "geo": "pry", 
+    "poverty_percent": 1.7, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1340", 
+    "geo": "pry", 
+    "poverty_percent": 2.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1341", 
+    "geo": "pry", 
+    "poverty_percent": 1.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1342", 
+    "geo": "pry", 
+    "poverty_percent": 1.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1343", 
+    "geo": "pry", 
+    "poverty_percent": 1.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1344", 
+    "geo": "pry", 
+    "poverty_percent": 1.4, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1345", 
+    "geo": "pse", 
+    "poverty_percent": 0.8, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1346", 
+    "geo": "pse", 
+    "poverty_percent": 0.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1347", 
+    "geo": "pse", 
+    "poverty_percent": 0.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1348", 
+    "geo": "pse", 
+    "poverty_percent": 1.5, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1349", 
+    "geo": "pse", 
+    "poverty_percent": 0.3, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1350", 
+    "geo": "pse", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1351", 
+    "geo": "pse", 
+    "poverty_percent": 0.2, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1352", 
+    "geo": "pse", 
+    "poverty_percent": 0.8, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1353", 
+    "geo": "rou", 
+    "poverty_percent": 6.6, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1354", 
+    "geo": "rou", 
+    "poverty_percent": 4.9, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1355", 
+    "geo": "rou", 
+    "poverty_percent": 3.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1356", 
+    "geo": "rou", 
+    "poverty_percent": 2.8, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1357", 
+    "geo": "rou", 
+    "poverty_percent": 3.8, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1358", 
+    "geo": "rou", 
+    "poverty_percent": 4.9, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1359", 
+    "geo": "rou", 
+    "poverty_percent": 5.6, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1360", 
+    "geo": "rou", 
+    "poverty_percent": 6.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1361", 
+    "geo": "rou", 
+    "poverty_percent": 6.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1362", 
+    "geo": "rou", 
+    "poverty_percent": 4.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1363", 
+    "geo": "rou", 
+    "poverty_percent": 2.8, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1364", 
+    "geo": "rou", 
+    "poverty_percent": 3.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1365", 
+    "geo": "rus", 
+    "poverty_percent": 3.7, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1366", 
+    "geo": "rus", 
+    "poverty_percent": 4.8, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1367", 
+    "geo": "rus", 
+    "poverty_percent": 1.6, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1368", 
+    "geo": "rus", 
+    "poverty_percent": 2.4, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1369", 
+    "geo": "rus", 
+    "poverty_percent": 4.5, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1370", 
+    "geo": "rus", 
+    "poverty_percent": 3.1, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1371", 
+    "geo": "rus", 
+    "poverty_percent": 1.8, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1372", 
+    "geo": "rus", 
+    "poverty_percent": 1.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1373", 
+    "geo": "rus", 
+    "poverty_percent": 1.1, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1374", 
+    "geo": "rus", 
+    "poverty_percent": 1.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1375", 
+    "geo": "rus", 
+    "poverty_percent": 0.8, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1376", 
+    "geo": "rus", 
+    "poverty_percent": 0.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1377", 
+    "geo": "rus", 
+    "poverty_percent": 0.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1378", 
+    "geo": "rus", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1379", 
+    "geo": "rus", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1380", 
+    "geo": "rus", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1381", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1382", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1383", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1384", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1385", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1386", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1387", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1388", 
+    "geo": "rus", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1389", 
+    "geo": "rwa", 
+    "poverty_percent": 78.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1390", 
+    "geo": "rwa", 
+    "poverty_percent": 69.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1391", 
+    "geo": "rwa", 
+    "poverty_percent": 63.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1392", 
+    "geo": "rwa", 
+    "poverty_percent": 57.9, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1393", 
+    "geo": "rwa", 
+    "poverty_percent": 56.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1394", 
+    "geo": "sdn", 
+    "poverty_percent": 15.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1395", 
+    "geo": "sdn", 
+    "poverty_percent": 12.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1396", 
+    "geo": "sen", 
+    "poverty_percent": 68.4, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1397", 
+    "geo": "sen", 
+    "poverty_percent": 57.4, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1398", 
+    "geo": "sen", 
+    "poverty_percent": 49.1, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1399", 
+    "geo": "sen", 
+    "poverty_percent": 38.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1400", 
+    "geo": "sen", 
+    "poverty_percent": 38.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1401", 
+    "geo": "slb", 
+    "poverty_percent": 45.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1402", 
+    "geo": "slb", 
+    "poverty_percent": 25.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1403", 
+    "geo": "sle", 
+    "poverty_percent": 72.9, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1404", 
+    "geo": "sle", 
+    "poverty_percent": 73.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1405", 
+    "geo": "sle", 
+    "poverty_percent": 54.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1406", 
+    "geo": "sle", 
+    "poverty_percent": 43.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1407", 
+    "geo": "slv", 
+    "poverty_percent": 18.2, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1408", 
+    "geo": "slv", 
+    "poverty_percent": 20.9, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1409", 
+    "geo": "slv", 
+    "poverty_percent": 12.7, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1410", 
+    "geo": "slv", 
+    "poverty_percent": 14.5, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1411", 
+    "geo": "slv", 
+    "poverty_percent": 20.3, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1412", 
+    "geo": "slv", 
+    "poverty_percent": 16.5, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1413", 
+    "geo": "slv", 
+    "poverty_percent": 12.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1414", 
+    "geo": "slv", 
+    "poverty_percent": 13.6, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1415", 
+    "geo": "slv", 
+    "poverty_percent": 14.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1416", 
+    "geo": "slv", 
+    "poverty_percent": 15.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1417", 
+    "geo": "slv", 
+    "poverty_percent": 11.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1418", 
+    "geo": "slv", 
+    "poverty_percent": 10.6, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1419", 
+    "geo": "slv", 
+    "poverty_percent": 7.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1420", 
+    "geo": "slv", 
+    "poverty_percent": 4.7, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1421", 
+    "geo": "slv", 
+    "poverty_percent": 7.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1422", 
+    "geo": "slv", 
+    "poverty_percent": 6.8, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1423", 
+    "geo": "slv", 
+    "poverty_percent": 5.7, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1424", 
+    "geo": "slv", 
+    "poverty_percent": 4.7, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1425", 
+    "geo": "slv", 
+    "poverty_percent": 4.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1426", 
+    "geo": "slv", 
+    "poverty_percent": 3.4, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1427", 
+    "geo": "slv", 
+    "poverty_percent": 3.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1428", 
+    "geo": "slv", 
+    "poverty_percent": 2.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1429", 
+    "geo": "slv", 
+    "poverty_percent": 2.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1430", 
+    "geo": "slv", 
+    "poverty_percent": 1.9, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1431", 
+    "geo": "slv", 
+    "poverty_percent": 1.5, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1432", 
+    "geo": "srb", 
+    "poverty_percent": 5.3, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1433", 
+    "geo": "srb", 
+    "poverty_percent": 5.8, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1434", 
+    "geo": "srb", 
+    "poverty_percent": 6.9, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1435", 
+    "geo": "srb", 
+    "poverty_percent": 6.6, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1436", 
+    "geo": "srb", 
+    "poverty_percent": 6.4, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1437", 
+    "geo": "srb", 
+    "poverty_percent": 5.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1438", 
+    "geo": "ssd", 
+    "poverty_percent": 44.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1439", 
+    "geo": "stp", 
+    "poverty_percent": 31.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1440", 
+    "geo": "stp", 
+    "poverty_percent": 34.6, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1441", 
+    "geo": "stp", 
+    "poverty_percent": 35.6, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1442", 
+    "geo": "sur", 
+    "poverty_percent": 23.4, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1443", 
+    "geo": "svk", 
+    "poverty_percent": 0.1, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1444", 
+    "geo": "svk", 
+    "poverty_percent": 0.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1445", 
+    "geo": "svk", 
+    "poverty_percent": 0.2, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1446", 
+    "geo": "svk", 
+    "poverty_percent": 0.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1447", 
+    "geo": "svk", 
+    "poverty_percent": 0.4, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1448", 
+    "geo": "svk", 
+    "poverty_percent": 0.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1449", 
+    "geo": "svk", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1450", 
+    "geo": "svk", 
+    "poverty_percent": 0.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1451", 
+    "geo": "svk", 
+    "poverty_percent": 0.3, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1452", 
+    "geo": "svk", 
+    "poverty_percent": 0.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1453", 
+    "geo": "svk", 
+    "poverty_percent": 0.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1454", 
+    "geo": "svk", 
+    "poverty_percent": 0.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1455", 
+    "geo": "svk", 
+    "poverty_percent": 1.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1456", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1457", 
+    "geo": "svn", 
+    "poverty_percent": 0.1, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1458", 
+    "geo": "svn", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1459", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1460", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1461", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1462", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1463", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1464", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1465", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1466", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1467", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1468", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1469", 
+    "geo": "svn", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1470", 
+    "geo": "swe", 
+    "poverty_percent": 7.7, 
+    "time": 1967
+  }, 
+  {
+    "_id": "doc_1471", 
+    "geo": "swe", 
+    "poverty_percent": 0.5, 
+    "time": 1975
+  }, 
+  {
+    "_id": "doc_1472", 
+    "geo": "swe", 
+    "poverty_percent": 0.2, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_1473", 
+    "geo": "swe", 
+    "poverty_percent": 0.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1474", 
+    "geo": "swe", 
+    "poverty_percent": 0.2, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1475", 
+    "geo": "swe", 
+    "poverty_percent": 0.2, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1476", 
+    "geo": "swe", 
+    "poverty_percent": 0.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1477", 
+    "geo": "swe", 
+    "poverty_percent": 0.3, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1478", 
+    "geo": "swe", 
+    "poverty_percent": 0.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1479", 
+    "geo": "swe", 
+    "poverty_percent": 1.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1480", 
+    "geo": "swe", 
+    "poverty_percent": 0.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1481", 
+    "geo": "swe", 
+    "poverty_percent": 0.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1482", 
+    "geo": "swe", 
+    "poverty_percent": 0.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1483", 
+    "geo": "swe", 
+    "poverty_percent": 0.4, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1484", 
+    "geo": "swe", 
+    "poverty_percent": 0.5, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1485", 
+    "geo": "swe", 
+    "poverty_percent": 0.5, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1486", 
+    "geo": "swe", 
+    "poverty_percent": 0.5, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1487", 
+    "geo": "swe", 
+    "poverty_percent": 0.6, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1488", 
+    "geo": "swe", 
+    "poverty_percent": 0.5, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1489", 
+    "geo": "swe", 
+    "poverty_percent": 0.4, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1490", 
+    "geo": "swe", 
+    "poverty_percent": 0.3, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1491", 
+    "geo": "swe", 
+    "poverty_percent": 0.2, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1492", 
+    "geo": "swz", 
+    "poverty_percent": 82.1, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1493", 
+    "geo": "swz", 
+    "poverty_percent": 48.9, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1494", 
+    "geo": "swz", 
+    "poverty_percent": 43.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1495", 
+    "geo": "swz", 
+    "poverty_percent": 29.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1496", 
+    "geo": "syc", 
+    "poverty_percent": 1.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1497", 
+    "geo": "syr", 
+    "poverty_percent": 1.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1498", 
+    "geo": "tcd", 
+    "poverty_percent": 62.7, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1499", 
+    "geo": "tcd", 
+    "poverty_percent": 38.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1500", 
+    "geo": "tgo", 
+    "poverty_percent": 56.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1501", 
+    "geo": "tgo", 
+    "poverty_percent": 55.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1502", 
+    "geo": "tgo", 
+    "poverty_percent": 51.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1503", 
+    "geo": "tha", 
+    "poverty_percent": 19.3, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_1504", 
+    "geo": "tha", 
+    "poverty_percent": 14.0, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_1505", 
+    "geo": "tha", 
+    "poverty_percent": 9.2, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1506", 
+    "geo": "tha", 
+    "poverty_percent": 6.6, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1507", 
+    "geo": "tha", 
+    "poverty_percent": 3.1, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1508", 
+    "geo": "tha", 
+    "poverty_percent": 2.2, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1509", 
+    "geo": "tha", 
+    "poverty_percent": 1.5, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1510", 
+    "geo": "tha", 
+    "poverty_percent": 2.5, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1511", 
+    "geo": "tha", 
+    "poverty_percent": 2.4, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1512", 
+    "geo": "tha", 
+    "poverty_percent": 1.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1513", 
+    "geo": "tha", 
+    "poverty_percent": 0.7, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1514", 
+    "geo": "tha", 
+    "poverty_percent": 0.7, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1515", 
+    "geo": "tha", 
+    "poverty_percent": 0.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1516", 
+    "geo": "tha", 
+    "poverty_percent": 0.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1517", 
+    "geo": "tha", 
+    "poverty_percent": 0.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1518", 
+    "geo": "tha", 
+    "poverty_percent": 0.1, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1519", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1520", 
+    "geo": "tha", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1521", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1522", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1523", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1524", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1525", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1526", 
+    "geo": "tha", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1527", 
+    "geo": "tjk", 
+    "poverty_percent": 50.7, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1528", 
+    "geo": "tjk", 
+    "poverty_percent": 27.0, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1529", 
+    "geo": "tjk", 
+    "poverty_percent": 13.3, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1530", 
+    "geo": "tjk", 
+    "poverty_percent": 9.2, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1531", 
+    "geo": "tjk", 
+    "poverty_percent": 4.0, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1532", 
+    "geo": "tjk", 
+    "poverty_percent": 4.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1533", 
+    "geo": "tkm", 
+    "poverty_percent": 49.0, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1534", 
+    "geo": "tls", 
+    "poverty_percent": 38.5, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1535", 
+    "geo": "tls", 
+    "poverty_percent": 37.4, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1536", 
+    "geo": "tls", 
+    "poverty_percent": 22.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1537", 
+    "geo": "ton", 
+    "poverty_percent": 2.8, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1538", 
+    "geo": "ton", 
+    "poverty_percent": 1.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1539", 
+    "geo": "ton", 
+    "poverty_percent": 1.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1540", 
+    "geo": "tto", 
+    "poverty_percent": 0.4, 
+    "time": 1988
+  }, 
+  {
+    "_id": "doc_1541", 
+    "geo": "tto", 
+    "poverty_percent": 3.2, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1542", 
+    "geo": "tun", 
+    "poverty_percent": 15.1, 
+    "time": 1985
+  }, 
+  {
+    "_id": "doc_1543", 
+    "geo": "tun", 
+    "poverty_percent": 10.7, 
+    "time": 1990
+  }, 
+  {
+    "_id": "doc_1544", 
+    "geo": "tun", 
+    "poverty_percent": 11.8, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1545", 
+    "geo": "tun", 
+    "poverty_percent": 6.0, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1546", 
+    "geo": "tun", 
+    "poverty_percent": 3.4, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1547", 
+    "geo": "tun", 
+    "poverty_percent": 2.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1548", 
+    "geo": "tun", 
+    "poverty_percent": 0.2, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1549", 
+    "geo": "tur", 
+    "poverty_percent": 2.2, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1550", 
+    "geo": "tur", 
+    "poverty_percent": 3.0, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1551", 
+    "geo": "tur", 
+    "poverty_percent": 2.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1552", 
+    "geo": "tur", 
+    "poverty_percent": 3.9, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1553", 
+    "geo": "tur", 
+    "poverty_percent": 2.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1554", 
+    "geo": "tur", 
+    "poverty_percent": 2.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1555", 
+    "geo": "tur", 
+    "poverty_percent": 1.8, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1556", 
+    "geo": "tur", 
+    "poverty_percent": 1.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1557", 
+    "geo": "tur", 
+    "poverty_percent": 0.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1558", 
+    "geo": "tur", 
+    "poverty_percent": 0.7, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1559", 
+    "geo": "tur", 
+    "poverty_percent": 0.8, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1560", 
+    "geo": "tur", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1561", 
+    "geo": "tur", 
+    "poverty_percent": 0.1, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1562", 
+    "geo": "tur", 
+    "poverty_percent": 0.3, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1563", 
+    "geo": "tur", 
+    "poverty_percent": 0.2, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1564", 
+    "geo": "tur", 
+    "poverty_percent": 0.2, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1565", 
+    "geo": "tur", 
+    "poverty_percent": 0.2, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1566", 
+    "geo": "tur", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1567", 
+    "geo": "tur", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1568", 
+    "geo": "tuv", 
+    "poverty_percent": 3.3, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1569", 
+    "geo": "tza", 
+    "poverty_percent": 72.3, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1570", 
+    "geo": "tza", 
+    "poverty_percent": 86.2, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1571", 
+    "geo": "tza", 
+    "poverty_percent": 60.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1572", 
+    "geo": "tza", 
+    "poverty_percent": 49.6, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1573", 
+    "geo": "tza", 
+    "poverty_percent": 49.4, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1574", 
+    "geo": "uga", 
+    "poverty_percent": 57.6, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1575", 
+    "geo": "uga", 
+    "poverty_percent": 63.8, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1576", 
+    "geo": "uga", 
+    "poverty_percent": 62.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1577", 
+    "geo": "uga", 
+    "poverty_percent": 66.8, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1578", 
+    "geo": "uga", 
+    "poverty_percent": 64.9, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1579", 
+    "geo": "uga", 
+    "poverty_percent": 56.3, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1580", 
+    "geo": "uga", 
+    "poverty_percent": 44.5, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1581", 
+    "geo": "uga", 
+    "poverty_percent": 35.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1582", 
+    "geo": "uga", 
+    "poverty_percent": 41.5, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1583", 
+    "geo": "ukr", 
+    "poverty_percent": 2.7, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1584", 
+    "geo": "ukr", 
+    "poverty_percent": 1.1, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1585", 
+    "geo": "ukr", 
+    "poverty_percent": 4.8, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1586", 
+    "geo": "ukr", 
+    "poverty_percent": 5.0, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1587", 
+    "geo": "ukr", 
+    "poverty_percent": 1.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1588", 
+    "geo": "ukr", 
+    "poverty_percent": 0.6, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1589", 
+    "geo": "ukr", 
+    "poverty_percent": 0.5, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1590", 
+    "geo": "ukr", 
+    "poverty_percent": 0.2, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1591", 
+    "geo": "ukr", 
+    "poverty_percent": 0.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1592", 
+    "geo": "ukr", 
+    "poverty_percent": 0.1, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1593", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1594", 
+    "geo": "ukr", 
+    "poverty_percent": 0.1, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1595", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1596", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1597", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1598", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1599", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1600", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1601", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1602", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1603", 
+    "geo": "ukr", 
+    "poverty_percent": 0.0, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1604", 
+    "geo": "ury", 
+    "poverty_percent": 0.5, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1605", 
+    "geo": "ury", 
+    "poverty_percent": 0.7, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1606", 
+    "geo": "ury", 
+    "poverty_percent": 0.8, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1607", 
+    "geo": "ury", 
+    "poverty_percent": 0.7, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1608", 
+    "geo": "ury", 
+    "poverty_percent": 0.9, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1609", 
+    "geo": "ury", 
+    "poverty_percent": 0.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1610", 
+    "geo": "ury", 
+    "poverty_percent": 0.4, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1611", 
+    "geo": "ury", 
+    "poverty_percent": 0.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1612", 
+    "geo": "ury", 
+    "poverty_percent": 0.7, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1613", 
+    "geo": "ury", 
+    "poverty_percent": 0.8, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1614", 
+    "geo": "ury", 
+    "poverty_percent": 0.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1615", 
+    "geo": "ury", 
+    "poverty_percent": 0.5, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1616", 
+    "geo": "ury", 
+    "poverty_percent": 0.3, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1617", 
+    "geo": "ury", 
+    "poverty_percent": 0.2, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1618", 
+    "geo": "ury", 
+    "poverty_percent": 0.2, 
+    "time": 2009
+  }, 
+  {
+    "_id": "doc_1619", 
+    "geo": "ury", 
+    "poverty_percent": 0.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1620", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1621", 
+    "geo": "ury", 
+    "poverty_percent": 0.2, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1622", 
+    "geo": "ury", 
+    "poverty_percent": 0.2, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1623", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1624", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1625", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1626", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2017
+  }, 
+  {
+    "_id": "doc_1627", 
+    "geo": "ury", 
+    "poverty_percent": 0.1, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1628", 
+    "geo": "usa", 
+    "poverty_percent": 0.5, 
+    "time": 1974
+  }, 
+  {
+    "_id": "doc_1629", 
+    "geo": "usa", 
+    "poverty_percent": 0.5, 
+    "time": 1979
+  }, 
+  {
+    "_id": "doc_1630", 
+    "geo": "usa", 
+    "poverty_percent": 0.5, 
+    "time": 1986
+  }, 
+  {
+    "_id": "doc_1631", 
+    "geo": "usa", 
+    "poverty_percent": 0.5, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1632", 
+    "geo": "usa", 
+    "poverty_percent": 0.5, 
+    "time": 1994
+  }, 
+  {
+    "_id": "doc_1633", 
+    "geo": "usa", 
+    "poverty_percent": 0.7, 
+    "time": 1997
+  }, 
+  {
+    "_id": "doc_1634", 
+    "geo": "usa", 
+    "poverty_percent": 0.7, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1635", 
+    "geo": "usa", 
+    "poverty_percent": 1.0, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1636", 
+    "geo": "usa", 
+    "poverty_percent": 1.0, 
+    "time": 2007
+  }, 
+  {
+    "_id": "doc_1637", 
+    "geo": "usa", 
+    "poverty_percent": 1.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1638", 
+    "geo": "usa", 
+    "poverty_percent": 1.0, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1639", 
+    "geo": "usa", 
+    "poverty_percent": 1.0, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1640", 
+    "geo": "uzb", 
+    "poverty_percent": 39.9, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1641", 
+    "geo": "uzb", 
+    "poverty_percent": 61.5, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1642", 
+    "geo": "uzb", 
+    "poverty_percent": 57.5, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1643", 
+    "geo": "uzb", 
+    "poverty_percent": 61.6, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1644", 
+    "geo": "ven", 
+    "poverty_percent": 6.0, 
+    "time": 1981
+  }, 
+  {
+    "_id": "doc_1645", 
+    "geo": "ven", 
+    "poverty_percent": 6.3, 
+    "time": 1987
+  }, 
+  {
+    "_id": "doc_1646", 
+    "geo": "ven", 
+    "poverty_percent": 7.4, 
+    "time": 1989
+  }, 
+  {
+    "_id": "doc_1647", 
+    "geo": "ven", 
+    "poverty_percent": 5.0, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1648", 
+    "geo": "ven", 
+    "poverty_percent": 10.5, 
+    "time": 1995
+  }, 
+  {
+    "_id": "doc_1649", 
+    "geo": "ven", 
+    "poverty_percent": 12.9, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1650", 
+    "geo": "ven", 
+    "poverty_percent": 12.1, 
+    "time": 1999
+  }, 
+  {
+    "_id": "doc_1651", 
+    "geo": "ven", 
+    "poverty_percent": 11.0, 
+    "time": 2001
+  }, 
+  {
+    "_id": "doc_1652", 
+    "geo": "ven", 
+    "poverty_percent": 18.3, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1653", 
+    "geo": "ven", 
+    "poverty_percent": 22.8, 
+    "time": 2003
+  }, 
+  {
+    "_id": "doc_1654", 
+    "geo": "ven", 
+    "poverty_percent": 19.8, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1655", 
+    "geo": "ven", 
+    "poverty_percent": 19.0, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1656", 
+    "geo": "ven", 
+    "poverty_percent": 10.3, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1657", 
+    "geo": "vnm", 
+    "poverty_percent": 51.9, 
+    "time": 1992
+  }, 
+  {
+    "_id": "doc_1658", 
+    "geo": "vnm", 
+    "poverty_percent": 34.4, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1659", 
+    "geo": "vnm", 
+    "poverty_percent": 37.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1660", 
+    "geo": "vnm", 
+    "poverty_percent": 25.8, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1661", 
+    "geo": "vnm", 
+    "poverty_percent": 18.8, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1662", 
+    "geo": "vnm", 
+    "poverty_percent": 14.1, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1663", 
+    "geo": "vnm", 
+    "poverty_percent": 4.0, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1664", 
+    "geo": "vnm", 
+    "poverty_percent": 2.7, 
+    "time": 2012
+  }, 
+  {
+    "_id": "doc_1665", 
+    "geo": "vnm", 
+    "poverty_percent": 2.6, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1666", 
+    "geo": "vnm", 
+    "poverty_percent": 1.9, 
+    "time": 2016
+  }, 
+  {
+    "_id": "doc_1667", 
+    "geo": "vnm", 
+    "poverty_percent": 1.9, 
+    "time": 2018
+  }, 
+  {
+    "_id": "doc_1668", 
+    "geo": "vut", 
+    "poverty_percent": 13.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1669", 
+    "geo": "wsm", 
+    "poverty_percent": 2.0, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1670", 
+    "geo": "wsm", 
+    "poverty_percent": 0.6, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1671", 
+    "geo": "wsm", 
+    "poverty_percent": 1.1, 
+    "time": 2013
+  }, 
+  {
+    "_id": "doc_1672", 
+    "geo": "yem", 
+    "poverty_percent": 7.0, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1673", 
+    "geo": "yem", 
+    "poverty_percent": 9.4, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1674", 
+    "geo": "yem", 
+    "poverty_percent": 18.3, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1675", 
+    "geo": "zaf", 
+    "poverty_percent": 31.5, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1676", 
+    "geo": "zaf", 
+    "poverty_percent": 36.3, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1677", 
+    "geo": "zaf", 
+    "poverty_percent": 34.8, 
+    "time": 2000
+  }, 
+  {
+    "_id": "doc_1678", 
+    "geo": "zaf", 
+    "poverty_percent": 25.7, 
+    "time": 2005
+  }, 
+  {
+    "_id": "doc_1679", 
+    "geo": "zaf", 
+    "poverty_percent": 16.7, 
+    "time": 2008
+  }, 
+  {
+    "_id": "doc_1680", 
+    "geo": "zaf", 
+    "poverty_percent": 16.2, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1681", 
+    "geo": "zaf", 
+    "poverty_percent": 18.7, 
+    "time": 2014
+  }, 
+  {
+    "_id": "doc_1682", 
+    "geo": "zmb", 
+    "poverty_percent": 55.2, 
+    "time": 1991
+  }, 
+  {
+    "_id": "doc_1683", 
+    "geo": "zmb", 
+    "poverty_percent": 56.2, 
+    "time": 1993
+  }, 
+  {
+    "_id": "doc_1684", 
+    "geo": "zmb", 
+    "poverty_percent": 43.6, 
+    "time": 1996
+  }, 
+  {
+    "_id": "doc_1685", 
+    "geo": "zmb", 
+    "poverty_percent": 43.8, 
+    "time": 1998
+  }, 
+  {
+    "_id": "doc_1686", 
+    "geo": "zmb", 
+    "poverty_percent": 52.1, 
+    "time": 2002
+  }, 
+  {
+    "_id": "doc_1687", 
+    "geo": "zmb", 
+    "poverty_percent": 58.4, 
+    "time": 2004
+  }, 
+  {
+    "_id": "doc_1688", 
+    "geo": "zmb", 
+    "poverty_percent": 62.1, 
+    "time": 2006
+  }, 
+  {
+    "_id": "doc_1689", 
+    "geo": "zmb", 
+    "poverty_percent": 65.8, 
+    "time": 2010
+  }, 
+  {
+    "_id": "doc_1690", 
+    "geo": "zmb", 
+    "poverty_percent": 58.7, 
+    "time": 2015
+  }, 
+  {
+    "_id": "doc_1691", 
+    "geo": "zwe", 
+    "poverty_percent": 21.4, 
+    "time": 2011
+  }, 
+  {
+    "_id": "doc_1692", 
+    "geo": "zwe", 
+    "poverty_percent": 33.9, 
+    "time": 2017
+  }
+]
