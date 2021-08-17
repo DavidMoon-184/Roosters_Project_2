@@ -204,7 +204,7 @@ survey
     .add(function (sender) {
         document
             .querySelector('#surveyResult')
-            .textContent = "Result JSON:\n" + JSON.stringify(sender.data, null, 3);
+//            .textContent = "Result JSON:\n" + JSON.stringify(sender.data, null, 3);
     }); 
 
 survey.render("surveyElement");
