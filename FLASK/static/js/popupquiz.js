@@ -197,7 +197,7 @@ var json = {
     completedHtml: "<h4>You have answered correctly <b>{correctedAnswers}</b> questions from <b>{questionCount}</b>.</h4>"
 };
 
-//window.survey = new Survey.Model(json);
+window.survey = new Survey.Model(json);
 
 survey
     .onComplete
