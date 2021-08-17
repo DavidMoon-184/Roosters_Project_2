@@ -13,7 +13,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data 
-d3.json('/api', function(error,data) {
+d3.json('https://raw.githubusercontent.com/DavidMoon-184/Roosters_Project_2/main/FLASK/datasets/poverty_line.json', function(error,data) {
     // List of groups (here I have one group per column)
     console.log(error)
     console.log(data)
