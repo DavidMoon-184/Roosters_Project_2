@@ -1,0 +1,21 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";
+
+#parentContainer {
+  
+  min-width: 750px;
+  max-width: 1000px;
+}
+
+
+#play-pause-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  border: 1px solid silver;
+  border-radius: 3px;
+  background: #f8f8f8;
+}
+
+#play-range {
+  transform: translateY(2.5px);
+}
