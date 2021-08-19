@@ -9,12 +9,12 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", mono space;
   color: #444444;
 }
 
 a {
-  color: #5846f9;
+  color: #D45B3F;
   text-decoration: none;
 }
 
@@ -23,8 +23,12 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+h1 {
+  font-family: "Montserrat ", serif;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "Montserrat ", mono space;
 }
 
 /*--------------------------------------------------------------
@@ -37,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5846f9;
+  background: #D45B3F;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -51,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #7b27d8;
+  background: #FF8E72;
   color: #fff;
 }
 
@@ -79,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5846f9;
+  border: 6px solid #D45B3F;
   border-top-color: #e7e4fe;
   border-radius: 50%;
   width: 60px;
@@ -125,12 +129,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(24, 6, 185, 0.8);
+  background: rgba(142, 124, 104, 0.7);
   padding: 12px 0;
 }
 
+#font-size: 35px;
 #header .logo {
-  font-size: 32px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -140,12 +144,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 20px;
 }
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -178,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 0 3px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
   font-size: 15px;
   font-weight: 600;
   color: rgba(255, 255, 255, 0.7);
@@ -257,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .dropdown ul a {
   padding: 10px 20px;
   font-size: 14px;
-  color: #2c4964;
+  color: #3E4B73;
 }
 
 .navbar .dropdown ul a i {
@@ -265,7 +270,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 .navbar .dropdown:hover > ul {
@@ -355,7 +360,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  color: #3E4B73;
 }
 
 .navbar-mobile a:hover:before, .navbar-mobile li:hover > a:before, .navbar-mobile .active:before {
@@ -363,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 .navbar-mobile .getstarted {
@@ -395,7 +400,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -408,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(90deg, rgba(0, -1, 0, 0.5) 1%, rgba(0, 0, 0, 0.65) 50%), url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -431,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -446,7 +451,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 #hero .animated {
@@ -531,7 +536,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f9f8ff;
+  background-color: #FFF8F7;
 }
 
 .section-title {
@@ -554,7 +559,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #5846f9;
+  background: #D45B3F;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -572,8 +577,8 @@ section {
 
 .about .content h3 {
   font-weight: 600;
-  font-size: 32px;
-  color: #2c4964;
+  font-size: 35px;
+  color: #3E4B73;
 }
 
 .about .content ul {
@@ -586,9 +591,9 @@ section {
 }
 
 .about .content ul i {
-  font-size: 20px;
-  padding-right: 4px;
-  color: #5846f9;
+  font-size:17px;
+  padding-right: 5px;
+  color: #ED7458 ;
 }
 
 .about .content p:last-child {
@@ -596,21 +601,21 @@ section {
 }
 
 .about .content .read-more {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 22px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 50px 10px 28px;
+  padding: 10px 30px 10px 25px;
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(45deg, #FFC1A5 0%, #ED7458 80%);
   position: relative;
 }
 
 .about .content .read-more:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #D45B3F 0%, #FF8E72 100%);
 }
 
 .about .content .read-more i {
@@ -624,7 +629,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: linear-gradient(90deg, rgba(88, 70, 249, 0.5) 0%, rgba(123, 39, 216, 0.5) 100%), url("../img/counts-bg.png") center center no-repeat;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.65) 100%), url("../img/counts-bg.png") center center no-repeat;
   padding: 80px 0 60px 0;
 }
 
@@ -633,7 +638,7 @@ section {
   display: block;
   color: #fff;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
 }
 
 .counts .counters p {
@@ -688,7 +693,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #2c4964;
+  color: #3E4B73;
   transition: ease-in-out 0.3s;
 }
 
@@ -787,7 +792,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 .features .icon-box p {
@@ -825,7 +830,7 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: #2c4964;
+  color: #3E4B73;
 }
 
 .testimonials .testimonial-item h4 {
@@ -874,11 +879,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5846f9;
+  border: 1px solid #D45B3F;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5846f9;
+  background-color: #D45B3F;
 }
 
 @media (max-width: 767px) {
@@ -915,12 +920,12 @@ section {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   border-radius: 5px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5846f9;
+  background: #D45B3F;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1032,11 +1037,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5846f9;
+  border: 1px solid #D45B3F;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5846f9;
+  background-color: #D45B3F;
 }
 
 .portfolio-details .portfolio-info {
@@ -1095,15 +1100,15 @@ section {
   padding: 20px 15px;
   font-size: 16px;
   font-weight: 600;
-  color: #2c4964;
+  color: #3E4B73;
   background: #f8f8f8;
 }
 
 .pricing h4 {
   font-size: 36px;
-  color: #5846f9;
+  color: #D45B3F;
   font-weight: 600;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", mono space;
   margin-bottom: 20px;
 }
 
@@ -1133,7 +1138,7 @@ section {
 }
 
 .pricing ul i {
-  color: #5846f9;
+  color: #D45B3F;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1151,7 +1156,7 @@ section {
 }
 
 .pricing .btn-buy {
-  background: linear-gradient(42deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(42deg, #D45B3F 0%, #FF8E72 100%);
   display: inline-block;
   padding: 10px 35px;
   border-radius: 4px;
@@ -1159,18 +1164,18 @@ section {
   transition: none;
   font-size: 15px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", mono space;
   font-weight: 600;
   transition: 0.3s;
 }
 
 .pricing .btn-buy:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #D45B3F 0%, #FF8E72 100%);
 }
 
 .pricing .featured h3 {
   color: #fff;
-  background: #5846f9;
+  background: #D45B3F;
 }
 
 .pricing .advanced {
@@ -1182,7 +1187,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #5846f9;
+  background: #D45B3F;
   color: #fff;
 }
 
@@ -1190,7 +1195,7 @@ section {
 # Frequently Asked Questions
 --------------------------------------------------------------*/
 .faq {
-  background: linear-gradient(42deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(42deg, #D45B3F 0%, #FF8E72 100%);
 }
 
 .faq .section-title h2, .faq .section-title p {
@@ -1224,7 +1229,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", mono space;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1258,11 +1263,11 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #2c4964;
+  color: #3E4B73;
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #5846f9;
+  color: #D45B3F;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1292,14 +1297,14 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #5846f9;
+  color: #D45B3F;
   border-radius: 50%;
   padding: 8px;
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #2c4964;
+  color: #3E4B73;
   font-weight: 700;
   margin: 10px 0;
 }
@@ -1366,7 +1371,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5846f9;
+  border-color: #D45B3F;
 }
 
 .contact .php-email-form input {
@@ -1378,7 +1383,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #5846f9;
+  background: #D45B3F;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1387,7 +1392,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #7b27d8;
+  background: #FF8E72;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1467,7 +1472,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.65) 100%), url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -1493,7 +1498,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat ", mono space;
 }
 
 #footer .footer-top h4 {
@@ -1586,7 +1591,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #5846f9;
+  background: #D45B3F;
 }
 
 #footer .copyright-wrap {
