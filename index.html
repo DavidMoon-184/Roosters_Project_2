@@ -14,7 +14,7 @@
   <link href="FLASK/static/img/roosters.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Montserrat :300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="FLASK/static/vendor/aos/aos.css" rel="stylesheet">
@@ -34,10 +34,10 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
-    <div class="container d-flex align-items-center justify-content-between">
-      <h1 class="logo"><a href="index.html">Rowdy Roosters</a></h1>
+    <div class="container d-flex align-items-center justify-content-between">         
+      <h1 class="logo"><a href="index.html"> <img src="/static/img/roosters.jpg" alt="logo" />Rowdy Roosters</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="FLASK/static/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.html" class="logo"><img src="FLASK/static/img/roosters.png" alt="" class="img-fluid"></a> -->
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -70,7 +70,7 @@
           <div><a href="#about" class="btn-get-started scrollto">Tell Me More</a></div>
         </div>
         <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-          <img src="FLASK/static/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="../static/img/hero-img.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -79,37 +79,32 @@
 
   <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
+   <!-- ======= About Section ======= -->
+   <section id="about" class="about">
+    <div class="container">
 
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-            <img src="FLASK/static/img/about.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Overview</h3>
-            <p class="fst-italic">
-              Dr. Hans Rosling explains in his book "Factfulness" that the majority of people perceive the world as more hopeless and negative than it really is.
-            </p>
-            <p class="fst-italic">
-              We have picked the top 3 questions that have the most wrong answer rate to support the answer based on the data visualization as follows:</br></p>  
-            </p>
-            <p>
-              <img src="FLASK/static/img/Overview.jpg" class="img-fluid" alt="">
-            </p>         
+      <div class="row">
+        <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
+          <img src="../static/img/about.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
+          <h3>Overview</h3>
+          <p class="fst-italic">
+            Dr. Hans Rosling explains in his book "Factfulness" that the majority of people perceive the world as more hopeless and negative than it really is.
+            <br><br>We have picked the top 3 questions that have the most wrong answer rate to support the answer based on the data visualization as follows:</br>
+            <p><img src="../static/img/Overview.jpg" class="img-fluid" alt=""></p>
             <ul>
               <li><i class="bi bi-check-circle"></i> Research shows that the world is actually getting better, and showing a positive trend overall year-by-year.</li>
               <li><i class="bi bi-check-circle"></i> This is in direct contrast to how even the top educated members of society view the overall trajectory of the world.</li>
               <li><i class="bi bi-check-circle"></i> Understanding the true progress of humans and having the correct view of the progress of the world is important in government decisions regarding foreign aid.</li>
             </ul>
-            <p>Still cannot believe the truth? Go look at the Analysis!</p>
-            <a href="#services" class="read-more">The Analysis<i class="bi bi-long-arrow-right"></i></a>
-          </div>
+            <a href="#services" class="read-more">The Analysis<i class="bi bi-long-arrow-right"></i></a> 
+          </div>       
         </div>
-
       </div>
-    </section><!-- End About Section -->
+
+    </div>
+  </section><!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
@@ -181,7 +176,7 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="FLASK/templates/birth_rate.html">World Children Population</a></h4>
+              <h4><a href="FLASK/templates/birth_rate.html">Children Population Forecast (by 2100)</a></h4>
               <p>Q5. There are 2 billion children in the world today,  aged 0 to 15 years old. How many children will there be in the year 2100, according to the United Nations?</p>
             </div>
           </div>
