@@ -14,7 +14,7 @@
   <link href="../static/img/roosters.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Montserrat :300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="../static/vendor/aos/aos.css" rel="stylesheet">
@@ -90,13 +90,15 @@
             <h3>Overview</h3>
             <p class="fst-italic">
               Dr. Hans Rosling explains in his book "Factfulness" that the majority of people perceive the world as more hopeless and negative than it really is.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Research shows that the world is actually getting better, and showing a positive trend overall year-by-year.</li>
-              <li><i class="bi bi-check-circle"></i> This is in direct contrast to how even the top educated members of society view the overall trajectory of the world.</li>
-              <li><i class="bi bi-check-circle"></i> Understanding the true progress of humans and having the correct view of the progress of the world is important in government decisions regarding foreign aid.</li>
-            </ul>
-            <a href="#services" class="read-more">The Analysis<i class="bi bi-long-arrow-right"></i></a>
+              <br><br>We have picked the top 3 questions that have the most wrong answer rate to support the answer based on the data visualization as follows:</br>
+              <p><img src="../static/img/Overview.jpg" class="img-fluid" alt=""></p>
+              <ul>
+                <li><i class="bi bi-check-circle"></i> Research shows that the world is actually getting better, and showing a positive trend overall year-by-year.</li>
+                <li><i class="bi bi-check-circle"></i> This is in direct contrast to how even the top educated members of society view the overall trajectory of the world.</li>
+                <li><i class="bi bi-check-circle"></i> Understanding the true progress of humans and having the correct view of the progress of the world is important in government decisions regarding foreign aid.</li>
+              </ul>
+              <a href="#services" class="read-more">The Analysis<i class="bi bi-long-arrow-right"></i></a> 
+            </div>            
           </div>
         </div>
 
@@ -147,8 +149,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="{{ url_for('primary_school') }}">Primary School Completion</a></h4>
-              <p>Completion rate of primary school across low-income countries over time</p>
+              <h4><a href="{{ url_for('primary_school') }}">Primary School Completion Rate</a></h4>
+              <p>Q1. In all low-income countries across the world today, how many girls finish primary school?</p>
             </div>
           </div>
 
@@ -160,8 +162,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="{{ url_for('poverty_rate') }}">Poverty Rates</a></h4>
-              <p>Proportion of the world population living in extreme poverty over time</p>
+              <h4><a href="{{ url_for('poverty_rate') }}">World Poverty Rate</a></h4>
+              <p>Q3. In the last 20 years, the proportion of the world population living in extreme poverty has...</p>
             </div>
           </div>
 
@@ -173,8 +175,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="{{ url_for('birth_rate') }}">Birth Rates</a></h4>
-              <p>Estimated population of children in the year 2100, according to the United Nations</p>
+              <h4><a href="{{ url_for('birth_rate') }}">Children Population Forecast (by 2100)</a></h4>
+              <p>Q5. There are 2 billion children in the world today,  aged 0 to 15 years old. How many children will there be in the year 2100, according to the United Nations?</p>
             </div>
           </div>
         </div>
