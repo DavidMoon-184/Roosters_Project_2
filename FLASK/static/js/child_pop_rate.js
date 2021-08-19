@@ -11,7 +11,7 @@ var trace1 = {
   text:'aged 0-14 male population (%)',
   x: unpack(rows, 'time'),
   y: unpack(rows, 'population_aged_0_14_years_male_percent'),
-  line: {color: '#19CBA1'},
+  line: {color: '#57648C'},
   type: "scatter"
 }
 
@@ -21,7 +21,7 @@ var trace2 = {
   text:'aged 0-14 female population (%)',
   x: unpack(rows, 'time'),
   y: unpack(rows, 'population_aged_0_14_years_female_percent'),
-  line: {color: '#FFD533'},
+  line: {color: '#BA4125'},
   type: "scatter"
 }
 

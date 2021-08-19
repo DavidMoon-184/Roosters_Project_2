@@ -21,7 +21,7 @@ d3.csv("https://raw.githubusercontent.com/DavidMoon-184/Roosters_Project_2/main/
     fill: 'tonexty',
     type: 'scatter',
     mode: 'lines',
-    line: {color: '#23859A'},
+    line: {color: '#A1280C'},
   }], {
     xaxis: {
       type: 'year', 

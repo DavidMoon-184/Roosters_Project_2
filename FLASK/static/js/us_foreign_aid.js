@@ -145,7 +145,7 @@ Highcharts.getJSON('https://raw.githubusercontent.com/DavidMoon-184/Roosters_Pro
     yAxis: [{
       opposite: true,
       title: {
-        text: 'Amount per Sector (Billions "G")'
+        text: 'Amount per Sector'
       },
       tickAmount: 5
     }],

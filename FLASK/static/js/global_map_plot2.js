@@ -38,7 +38,7 @@ var data = [{
 
 }];
 var layout = {
-    title: 'World Primary School Completion Rate',
+    // title: 'World Primary School Completion Rate',
     width: 1000,
     height: 600,
     geo:{

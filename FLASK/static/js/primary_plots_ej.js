@@ -21,41 +21,41 @@ d3.csv("https://raw.githubusercontent.com/DavidMoon-184/Roosters_Project_2/main/
   
   var trace2 = {
     type: "scatter",
-    mode: "lines",
+    mode: 'lines+markers',
     name: 'Boys',
     fill: 'tonexty',
     x: frames[1].data[1].x,
     y: frames[1].data[1].y,
-    line: {color: '#a6a0bd'}
+    line: {color: '#57648C'}
   }
 
   var trace1 = {
     type: "scatter",
-    mode: "lines",
+    mode: 'lines+markers',
     name: 'Girls',
     x: frames[0].data[0].x,
     y: frames[0].data[0].y,
-    line: {color: '#103356'}
+    line: {color: '#934A5F'}
   }
 
   var data = [trace1,trace2]; 
     
   var layout = {
-    title: 'What percentage of low income childrens finish primary school?',
+    // title: 'What percentage of low income childrens finish their primary school?',
     
     xaxis: {
       range: [1969, 2019],
     title: {type: 'year',
       text: 'Year',
     },
-      showgrid: false
+      showgrid: true
     },  
     yaxis: {
       range: [0, 100],
       title: {type: 'percent',
       text: 'Percentage',
     },
-      showgrid: false
+      showgrid: true
     },
     legend: {
       orientation: 'h',
@@ -80,7 +80,7 @@ d3.csv("https://raw.githubusercontent.com/DavidMoon-184/Roosters_Project_2/main/
             duration: 0,
           },
           frame: {
-            duration: 40,
+            duration: 90,
             redraw: false
           }
         }],
